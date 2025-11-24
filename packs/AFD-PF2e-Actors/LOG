@@ -1,0 +1,8 @@
+2025/11/21-02:19:13.978436 f980f8e0cfc0 Recovering log #6
+2025/11/21-02:19:13.985821 f980f8e0cfc0 Delete type=3 #2
+2025/11/21-02:19:13.985847 f980f8e0cfc0 Delete type=0 #6
+2025/11/21-02:58:30.004310 f97e5a7fefc0 Level-0 table #14: started
+2025/11/21-02:58:30.004325 f97e5a7fefc0 Level-0 table #14: 0 bytes OK
+2025/11/21-02:58:30.006965 f97e5a7fefc0 Delete type=0 #12
+2025/11/21-02:58:30.012896 f97e5a7fefc0 Manual compaction at level-0 from '!actors!0TSMCZ0BMRSRKM0f' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
+2025/11/21-02:58:30.013139 f97e5a7fefc0 Manual compaction at level-1 from '!actors!0TSMCZ0BMRSRKM0f' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
