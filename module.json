@@ -23,7 +23,7 @@
         "type": "module",
         "compatibility": {}
       },
-	    {
+	  {
         "id": "macro-wheel",
         "type": "module",
         "compatibility": {}
@@ -32,6 +32,7 @@
         "id": "monks-active-tiles",
         "type": "module",
         "compatibility": {}
+	  },
 	  {
         "id": "token-variant-art",
         "type": "module",
