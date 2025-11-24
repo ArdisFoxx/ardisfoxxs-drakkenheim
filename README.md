@@ -1,8 +1,6 @@
 Fan made module to support running of Dungeons of Drakkenheim in Pathfinder 2e and Daggerheart.
 
----------------
-
-* The Landing Page module previously required Lock View version 1.5.5 and Isometric Perspective module, but the latest versions of Landing Page use Foundry v13 and these other modules are not compatible so the scenes have been configured to not use them.
+Includes Actors and Items for playing Drakkenheim campaigns in PF2e and Daggerheart (in development), as well as Scenes, Journals, Macros, Rolltables, Music and Sound Effects to enhance your Drakkenheim campaign into a premium experience.
 
 ---------------
 
@@ -57,3 +55,7 @@ Some example quests are active so you will want to deactivate those so your play
 The Faction Reputation Sliders on the landing page are all tiles, showing PC's relationship with the factions, from Nemesis > Enemy > Neutral > Ally > Champion. Included in the Drakkenheim UI Assets folder are slider tile images for Enemy/Neutral/Ally in red/grey/blue colours respectively. 
 
 Note that the "ardisfoxxs-drakkenheim/assets/UI" folder also includes "Old" assets used in my previous module "Drakkenheim Landing Menu". I've left these in there in case they might be useful for you - some of them are used for this new module.
+
+-----------------
+
+* The Landing Page module previously required Lock View version 1.5.5 and Isometric Perspective module, but the latest versions of Landing Page use Foundry v13 and these other modules are not compatible, so the updated scenes have been configured not to use them.
