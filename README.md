@@ -4,7 +4,7 @@ Includes Actors and Items for playing Drakkenheim campaigns in PF2e and Daggerhe
 
 ---------------
 
-Note that this module relies on certain premium Drakkenheim content from Ghostfire Gaming and 3rd party content from Epic Isometric to fully function. Email me at ardisfoxxart@gmail.com with your purchase receipt of the Drakkenheim PDF and the Epic Isometric Patreon and I can supply you with a MEGA folder containing the repackaged files for use with this Foundry module. 
+Note that this module relies on certain premium Drakkenheim content from Ghostfire Gaming and 3rd party content from Epic Isometric to fully function. Email me at ardisfoxxart@gmail.com with your purchase receipt of the Drakkenheim PDF and the Epic Isometric Patreon and I can supply you with a MEGA folder containing the additional assets required for this Foundry module. 
 
 For full functionality I also recommend picking up the Simple Quest and Macro Wheel modules from TheRipper93's Patreon - just subscribe for a month then download the modules you want and cancel your sub if you don't want to continue supporting. I promise that those modules are worth it.
 
