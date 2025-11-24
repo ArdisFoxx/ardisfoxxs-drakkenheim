@@ -1,162 +1,162 @@
 {
-  "id": "ardisfoxxs-drakkenheim",
-  "title": "ArdisFoxx's Drakkenheim",
-  "version": "#{VERSION}#",
-  "compatibility": {
-    "minimum": "13",
-    "verified": "13"
-  },
-  "description": "<p>Foundry module for support of Drakkenheim campaigns in PF2e and Daggerheart systems</p>",
-  "authors": [
-    {
-      "name": "ArdisFoxx",
-      "email": "Ardisfoxxart@gmail.com",
-      "url": "https://ardisfoxxart.carrd.co/",
-      "discord": "ardisfoxxart",
-      "flags": {}
-    }
-  ],
-   "relationships": {
-    "recommends": [
-      {
-        "id": "simple-quest",
-        "type": "module",
-        "compatibility": {}
-      },
-	  {
-        "id": "macro-wheel",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "monks-active-tiles",
-        "type": "module",
-        "compatibility": {}
-	  },
-	  {
-        "id": "token-variant-art",
-        "type": "module",
-        "compatibility": {}
-      },
-      ]
+"id": "ardisfoxxs-drakkenheim",
+"title": "ArdisFoxx's Drakkenheim",
+"version": "#{VERSION}#",
+"compatibility": {
+ "minimum": "13",
+ "verified": "13"
+},
+"description": "<p>Foundry module for support of Drakkenheim campaigns in PF2e and Daggerheart systems</p>",
+"authors": [
+ {
+   "name": "ArdisFoxx",
+   "email": "Ardisfoxxart@gmail.com",
+   "url": "https://ardisfoxxart.carrd.co/",
+   "discord": "ardisfoxxart",
+   "flags": {}
+ }
+],
+"relationships": {
+ "recommends": [
+   {
+     "id": "simple-quest",
+     "type": "module",
+     "compatibility": {}
+   },
+   {
+     "id": "macro-wheel",
+     "type": "module",
+     "compatibility": {}
+   },
+   {
+     "id": "monks-active-tiles",
+     "type": "module",
+     "compatibility": {}
+   },
+   {
+     "id": "token-variant-art",
+     "type": "module",
+     "compatibility": {}
    }
-  "esmodules": ["scripts/module.js"],
-  "scripts": ["scripts/lib/lib.js"],
-  "styles": ["styles/module.css"],
-  "socket": true,
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
-    }
-  ],
-  "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#",
-  "packs": [
-    {
-      "name": "AFD-Journals",
-      "label": "AFD-Journals",
-      "path": "packs/AFD-Journals",
-      "type": "JournalEntry",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "AFD-Macros",
-      "label": "AFD-Macros",
-      "path": "packs/AFD-Macros",
-      "type": "Macro",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "AFD-Playlists",
-      "label": "AFD-Playlists",
-      "path": "packs/AFD-Playlists",
-      "type": "Playlist",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "AFD-Rolltables",
-      "label": "AFD-Rolltables",
-      "path": "packs/AFD-Rolltables",
-      "type": "RollTable",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "AFD-Scenes",
-      "label": "AFD-Scenes",
-      "path": "packs/AFD-Scenes",
-      "type": "Scene",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "AFD-PF2e-Actors",
-      "label": "AFD-PF2e-Actors",
-      "path": "packs/AFD-PF2e-Actors",
-      "type": "Actor",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e",
-      "flags": {}
-    },
-    {
-      "name": "AFD-PF2e-Items",
-      "label": "AFD-PF2e-Items",
-      "path": "packs/AFD-PF2e-Items",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e",
-      "flags": {}
-    },
-    {
-      "name": "AFD-DH-Actors",
-      "label": "AFD-DH-Actors",
-      "path": "packs/AFD-DH-Actors",
-      "type": "Actor",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "daggerheart",
-      "flags": {}
-    },
-    {
-      "name": "AFD-DH-Items",
-      "label": "AFD-DH-Items",
-      "path": "packs/AFD-DH-Items",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "daggerheart",
-      "flags": {}
-    }
-  ],
+ ]
+},
+"esmodules": ["scripts/module.js"],
+"scripts": ["scripts/lib/lib.js"],
+"styles": ["styles/module.css"],
+"socket": true,
+"languages": [
+ {
+   "lang": "en",
+   "name": "English",
+   "path": "languages/en.json"
+ }
+],
+"url": "#{URL}#",
+"manifest": "#{MANIFEST}#",
+"download": "#{DOWNLOAD}#",
+"packs": [
+ {
+   "name": "AFD-Journals",
+   "label": "AFD-Journals",
+   "path": "packs/AFD-Journals",
+   "type": "JournalEntry",
+   "ownership": {
+     "PLAYER": "OBSERVER",
+     "ASSISTANT": "OWNER"
+   },
+   "flags": {}
+ },
+ {
+   "name": "AFD-Macros",
+   "label": "AFD-Macros",
+   "path": "packs/AFD-Macros",
+   "type": "Macro",
+   "ownership": {
+     "PLAYER": "OBSERVER",
+     "ASSISTANT": "OWNER"
+   },
+   "flags": {}
+ },
+ {
+   "name": "AFD-Playlists",
+   "label": "AFD-Playlists",
+   "path": "packs/AFD-Playlists",
+   "type": "Playlist",
+   "ownership": {
+     "PLAYER": "OBSERVER",
+     "ASSISTANT": "OWNER"
+   },
+   "flags": {}
+ },
+ {
+   "name": "AFD-Rolltables",
+   "label": "AFD-Rolltables",
+   "path": "packs/AFD-Rolltables",
+   "type": "RollTable",
+   "ownership": {
+     "PLAYER": "OBSERVER",
+     "ASSISTANT": "OWNER"
+   },
+   "flags": {}
+ },
+ {
+   "name": "AFD-Scenes",
+   "label": "AFD-Scenes",
+   "path": "packs/AFD-Scenes",
+   "type": "Scene",
+   "ownership": {
+     "PLAYER": "OBSERVER",
+     "ASSISTANT": "OWNER"
+   },
+   "flags": {}
+ },
+ {
+   "name": "AFD-PF2e-Actors",
+   "label": "AFD-PF2e-Actors",
+   "path": "packs/AFD-PF2e-Actors",
+   "type": "Actor",
+   "ownership": {
+     "PLAYER": "OBSERVER",
+     "ASSISTANT": "OWNER"
+   },
+   "system": "pf2e",
+   "flags": {}
+ },
+ {
+   "name": "AFD-PF2e-Items",
+   "label": "AFD-PF2e-Items",
+   "path": "packs/AFD-PF2e-Items",
+   "type": "Item",
+   "ownership": {
+     "PLAYER": "OBSERVER",
+     "ASSISTANT": "OWNER"
+   },
+   "system": "pf2e",
+   "flags": {}
+ },
+ {
+   "name": "AFD-DH-Actors",
+   "label": "AFD-DH-Actors",
+   "path": "packs/AFD-DH-Actors",
+   "type": "Actor",
+   "ownership": {
+     "PLAYER": "OBSERVER",
+     "ASSISTANT": "OWNER"
+   },
+   "system": "daggerheart",
+   "flags": {}
+ },
+ {
+   "name": "AFD-DH-Items",
+   "label": "AFD-DH-Items",
+   "path": "packs/AFD-DH-Items",
+   "type": "Item",
+   "ownership": {
+     "PLAYER": "OBSERVER",
+     "ASSISTANT": "OWNER"
+   },
+   "system": "daggerheart",
+   "flags": {}
+ }
+]
 }
