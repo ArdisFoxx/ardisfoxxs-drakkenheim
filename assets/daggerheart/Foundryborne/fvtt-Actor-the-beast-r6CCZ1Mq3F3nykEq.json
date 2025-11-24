@@ -1,0 +1,415 @@
+{
+  "name": "The Beast",
+  "type": "adversary",
+  "img": "systems/daggerheart/assets/icons/documents/actors/dragon-head.svg",
+  "system": {
+    "description": "<p>\"Gorilla Titan think creature like <strong>play</strong> with food before eat. Much like cat.\"</p>",
+    "resistance": {
+      "physical": {
+        "resistance": false,
+        "immunity": false,
+        "reduction": 0
+      },
+      "magical": {
+        "resistance": false,
+        "immunity": false,
+        "reduction": 0
+      }
+    },
+    "tier": 1,
+    "type": "solo",
+    "notes": "",
+    "difficulty": 14,
+    "hordeHp": 1,
+    "damageThresholds": {
+      "major": 7,
+      "severe": 14
+    },
+    "resources": {
+      "hitPoints": {
+        "value": 0,
+        "max": 9,
+        "isReversed": true
+      },
+      "stress": {
+        "value": 0,
+        "max": 3,
+        "isReversed": true
+      }
+    },
+    "attack": {
+      "name": "Attack",
+      "img": "icons/skills/melee/blood-slash-foam-red.webp",
+      "_id": "w5yDw3MbP1lqjONV",
+      "systemPath": "attack",
+      "chatDisplay": false,
+      "type": "attack",
+      "range": "veryClose",
+      "target": {
+        "type": "hostile",
+        "amount": 1
+      },
+      "roll": {
+        "type": "attack",
+        "trait": null,
+        "difficulty": null,
+        "bonus": 3,
+        "advState": "neutral",
+        "diceRolling": {
+          "multiplier": "prof",
+          "flatMultiplier": 1,
+          "dice": "d6",
+          "compare": null,
+          "treshold": null
+        },
+        "useDefault": false
+      },
+      "damage": {
+        "parts": [
+          {
+            "value": {
+              "custom": {
+                "enabled": false,
+                "formula": ""
+              },
+              "flatMultiplier": 1,
+              "dice": "d12",
+              "bonus": 3,
+              "multiplier": "flat"
+            },
+            "applyTo": "hitPoints",
+            "type": [
+              "physical"
+            ],
+            "resultBased": false,
+            "valueAlt": {
+              "multiplier": "prof",
+              "flatMultiplier": 1,
+              "dice": "d6",
+              "bonus": null,
+              "custom": {
+                "enabled": false,
+                "formula": ""
+              }
+            },
+            "base": false
+          }
+        ],
+        "includeBase": false
+      },
+      "description": "",
+      "actionType": "action",
+      "cost": [],
+      "uses": {
+        "value": null,
+        "max": null,
+        "recovery": null,
+        "consumeOnSuccess": false
+      },
+      "effects": [],
+      "save": {
+        "trait": null,
+        "difficulty": null,
+        "damageMod": "none"
+      }
+    },
+    "experiences": {
+      "eMmyT2ZE5hYzNtna": {
+        "name": "Pounce",
+        "description": "",
+        "value": 2
+      }
+    },
+    "bonuses": {
+      "roll": {
+        "attack": {
+          "bonus": 0,
+          "dice": []
+        },
+        "action": {
+          "bonus": 0,
+          "dice": []
+        },
+        "reaction": {
+          "bonus": 0,
+          "dice": []
+        }
+      },
+      "damage": {
+        "physical": {
+          "bonus": 0,
+          "dice": []
+        },
+        "magical": {
+          "bonus": 0,
+          "dice": []
+        }
+      }
+    },
+    "motivesAndTactics": "Hit and run, pounce on the stragglers, play with food"
+  },
+  "prototypeToken": {
+    "name": "Adversary",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/daggerheart/assets/icons/documents/actors/dragon-head.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "resources.hitPoints"
+    },
+    "bar2": {
+      "attribute": "resources.stress"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Relentless (2)",
+      "type": "feature",
+      "system": {
+        "description": "<p>Passive: The Beast can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight it.</p>",
+        "resource": null,
+        "actions": {},
+        "originItemType": null,
+        "multiclassOrigin": false
+      },
+      "_id": "vxA46fwDqTFNBLBB",
+      "img": "systems/daggerheart/assets/icons/documents/items/stars-stack.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": "daggerheart",
+        "systemVersion": "1.1.2",
+        "createdTime": 1758077516563,
+        "modifiedTime": 1758078840912,
+        "lastModifiedBy": "RWFEUHgT8pWRGURM"
+      }
+    },
+    {
+      "name": "Pounce",
+      "type": "feature",
+      "system": {
+        "description": "<p>Action: Spend a Fear to allow The Beast to leap anywhere within Far range and make an attack. On a success, it deals an additional 1d12 damage.</p>",
+        "resource": null,
+        "actions": {},
+        "originItemType": null,
+        "multiclassOrigin": false
+      },
+      "_id": "LWUqTAff1YhGSrXP",
+      "img": "systems/daggerheart/assets/icons/documents/items/stars-stack.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": "daggerheart",
+        "systemVersion": "1.1.2",
+        "createdTime": 1758078851463,
+        "modifiedTime": 1758079401522,
+        "lastModifiedBy": "RWFEUHgT8pWRGURM"
+      }
+    },
+    {
+      "name": "Claw Frenzy",
+      "type": "feature",
+      "system": {
+        "description": "<p>Action: Spend a Fear to make a standard attack against all targets within Very Close range.</p>",
+        "resource": null,
+        "actions": {},
+        "originItemType": null,
+        "multiclassOrigin": false
+      },
+      "_id": "ImiIJwWnHTZy9EDc",
+      "img": "systems/daggerheart/assets/icons/documents/items/stars-stack.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": "daggerheart",
+        "systemVersion": "1.1.2",
+        "createdTime": 1758079196776,
+        "modifiedTime": 1758079409673,
+        "lastModifiedBy": "RWFEUHgT8pWRGURM"
+      }
+    },
+    {
+      "name": "Bat Away",
+      "type": "feature",
+      "system": {
+        "description": "<p>Action: Mark a Stress to make an attack against a target within Melee range. On a success, deal 1d8+3 physical damage and the target must make a Strength Reaction Roll (13) or be moved anywhere within Close range.</p>",
+        "resource": null,
+        "actions": {},
+        "originItemType": null,
+        "multiclassOrigin": false
+      },
+      "_id": "ooMq9s6NX5q9S9aS",
+      "img": "systems/daggerheart/assets/icons/documents/items/stars-stack.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": "daggerheart",
+        "systemVersion": "1.1.2",
+        "createdTime": 1758079418990,
+        "modifiedTime": 1758079431679,
+        "lastModifiedBy": "RWFEUHgT8pWRGURM"
+      }
+    },
+    {
+      "name": "Scatter",
+      "type": "feature",
+      "system": {
+        "description": "<p>Reaction: When the Beast marks a Hit Point, the Beast Heart is exposed, and The Beast becomes Hidden. The Beast creates one Beast-Shard within Close Range for every creature that the Beast sees. One of the Beast-Shards is immediately Spotlighted.</p>",
+        "resource": null,
+        "actions": {},
+        "originItemType": null,
+        "multiclassOrigin": false
+      },
+      "_id": "d1wYucphLw6KpAGd",
+      "img": "systems/daggerheart/assets/icons/documents/items/stars-stack.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": "daggerheart",
+        "systemVersion": "1.1.2",
+        "createdTime": 1758079439228,
+        "modifiedTime": 1758150353539,
+        "lastModifiedBy": "RWFEUHgT8pWRGURM"
+      }
+    },
+    {
+      "name": "Momentum",
+      "type": "feature",
+      "system": {
+        "description": "<p>Reaction: When The Beast makes a successful attack against a PC, you gain a Fear.</p>",
+        "resource": null,
+        "actions": {},
+        "originItemType": null,
+        "multiclassOrigin": false
+      },
+      "_id": "gZO9skdonFU66mYv",
+      "img": "systems/daggerheart/assets/icons/documents/items/stars-stack.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": "daggerheart",
+        "systemVersion": "1.1.2",
+        "createdTime": 1758079455516,
+        "modifiedTime": 1758079463817,
+        "lastModifiedBy": "RWFEUHgT8pWRGURM"
+      }
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.347",
+    "systemId": "daggerheart",
+    "systemVersion": "1.1.2",
+    "createdTime": 1758076422940,
+    "modifiedTime": 1758110771164,
+    "lastModifiedBy": "RWFEUHgT8pWRGURM",
+    "exportSource": {
+      "worldId": "daggerheart",
+      "uuid": "Actor.r6CCZ1Mq3F3nykEq",
+      "coreVersion": "13.347",
+      "systemId": "daggerheart",
+      "systemVersion": "1.1.2"
+    }
+  }
+}

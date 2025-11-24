@@ -1,0 +1,840 @@
+{{coverPage
+
+# Age of Drakkenheim
+Malevolent monsters and rival factions clash in a dark city devastated by a mysterious meteor shower.
+
+{{designerCredit
+
+Credits:
+
+Art and Writing by ArdisFoxx
+
+World of Drakkenheim by The Dungeon Dudes
+
+Campaign Frame Template Designed by Sax & PerfectlyCircularSeal
+
+}}
+
+{{complexity
+
+Complexity Rating: {{rating ●●●● }}
+
+}}
+ 
+{{coverColumns
+{{pitch
+
+#### The Pitch
+*Read this section to your players to introduce them to the campaign.*
+:
+The city of Drakkenheim is a shattered ruin haunted by lingering magic, twisted monstrosities, and the fallout of a celestial disaster. Fifteen years ago, Saint Tarna’s Comet fell from the heavens and struck the city, obliterating its heart in a fiery cataclysm. In its wake came delerium, a strange and dangerous crystalline substance that warps reality, bodies, and minds.
+
+Now, the ruins lie cloaked in perpetual haze and unending rain. Strange storms roll off the crater, mutated horrors roam the broken streets, and arcane anomalies tear at the fabric of the world. Yet, amid the shadows of despair, glimmers of hope remain. Some believe the city can be reclaimed, its secrets uncovered, its wounds healed. Others see only an opportunity for power, wealth, or divine revelation.
+
+Drakkenheim stands at a crossroads. The choices of the brave, the desperate, and the doomed will shape the fate of the realm.
+
+}}
+
+{{indentGroup
+
+#### Tone & Feel
+Bleak Fantasy, Survival, Corruption, Moral Ambiguity, Haze & Delerium, Wonder & Mystery, Sacrifice
+:
+#### Themes
+Corruption vs Purity, Knowledge & Mystery, Power & Temptation, Hope & Despair, Choices & Consequences
+:
+#### Touchstones
+*Diablo, The Witcher, Dark Souls, Elden Ring, Stalker: Shadow of Chernobyl, Bloodborne, Fallout, Castlevania: Symphony of the Night*
+
+}}
+}}
+
+{{gradient}}
+
+}}
+
+{{tab}}{{banner}}{{banner,cA}}{{banner,cB}} 
+<!--- The extra banners are for color correction -->
+
+{{bannerText
+{{pageNumber,auto}}
+
+Age of Drakkenheim Campaign Frame
+
+}}
+
+
+{{coverImage
+
+![coverImage](https://i.imgur.com/9Cs4tkF.jpeg) {width:101%,top:2%,left:2%}
+
+}}
+
+{{artist,light
+##### Age of Drakkenheim
+[ArdisFoxx](https://ardisfoxxart.carrd.co/)
+}}
+
+
+\page
+
+{{frameTitle
+### Age of Drakkenheim Campaign Frame
+}}
+
+## Overview
+
+{{chapterIntro
+
+If your group decides to play this campaign, give your players the following information before character creation.
+
+}}
+
+Drakkenheim is no more. Struck by Saint Tarna’s comet upon that woeful night, the once-majestic capital is now a shattered ruin. The haze drifts through its streets, carrying insidious magic that twists flesh and mind. Mutated creatures stalk the alleys, and ancient wards falter under the storm’s lingering curse. Beyond the city walls, the realm itself falters: noble houses scheme, faiths divide, and armies mass. A faint hope lingers that Drakkenheim may yet be restored-but shadows grow longer, and the world is unprepared for what stirs within.
+:
+### Delerium
+Among the wreckage, strange crystals glimmer. Known as delerium, these iridescent stones hum with power both wondrous and terrifying. They bend light, sing in the mind, and infect the body with their touch. To some they are blight and corruption, to others salvation and promise. Wizards, warlocks, and scholars covet delerium for spells and relics. Thieves and smugglers risk everything to sell fragments to the highest bidder. Paladins and zealots demand its destruction. No one agrees on its true nature. Each shard pulled from the ruins fuels both ambition and dread, and perhaps carries the secret to Drakkenheim’s fate.
+:
+### Broken Realm
+Drakkenheim once stood as the proud capital of Westemär, ruled by the von Kessel dynasty. With the comet’s fall came a decade of civil war, the monarchy shattered, and the realm left divided. Faith fractured into rival sects, noble houses turned blades upon one another, and soldiers marched without banners to follow. Now the throne lies empty, the crown unclaimed, and whispers of restoration linger only in taverns and campfires. Some speak of rebuilding, of cleansing the city and uniting the realm again. Others scoff, saying the age of kings is finished. All agree: the ruins hold the key.
+:
+### Rival Factions
+Five great factions vie for power within Drakkenheim. Each believes the city’s fate is theirs to shape, and each courts adventurers to further their cause. None are wholly just, nor entirely wicked-their motives clash in shades of grey, and only through perilous choice can one decide who is friend, foe, or something between.
+:
+:::
+#### The Hooded Lanterns
+Veterans of the civil war and remnants of the city watch, the Lanterns fight to reclaim their homeland. Led by Commander Elias Drexel, they wage a desperate campaign to cleanse Drakkenheim of monsters and bandits. They dream of rebuilding their city stone by stone, and restoring Westemär under a rightful heir.
+:
+#### The Queen’s Men
+Under the elusive Queen of Thieves, countless gangs and scoundrels claim the ruins as their playground. They smuggle delerium, prey upon pilgrims, and weave criminal networks in the chaos. Yet they see opportunity where others see only ruin-a lawless empire rising from the ashes.
+:
+#### Knights of the Silver Order
+Paladins sworn to the Sacred Flame, the Silver Order views delerium as corruption incarnate. Led by Knight-Captain Theodore Marshal, they have come to purge the crystals, slay the horrors they spawn, and banish heresy from the land. Their cause is righteous, but their zeal leaves little room for compromise.
+:
+#### Followers of the Falling Fire
+Born from a schism within the Sacred Flame, the Falling Fire follow Lucretia Mathias, who proclaims delerium as divine gift, not curse. To her followers, the comet was prophecy fulfilled and hope for salvation against a greater darkness yet to come. Branded heretics by the church, they march toward Drakkenheim on pilgrimage, certain that destiny awaits within the haze.
+:
+#### The Amethyst Academy
+Once rulers of the city’s arcane tower, the Amethyst Academy now seeks to reclaim what was lost. Archwizard Eldrick Runeweaver leads their expedition, determined to unlock the secrets of delerium before it consumes the world. To them, the crystals are not corruption but potential-dangerous, yes, but necessary for progress and survival alike.
+
+
+{{info
+
+**Content warning:** 
+ Drakkenheim is a dark fantasy world. We recommend players and Game Masters have an open conversation at the start of the campaign to discuss their lines and veils. In support of this conversation, please note references to the following are common in this setting:
+:
+ Violence, murder, blood, gore, cannibalism, and body horror.
+Degenerative mutations which cause physical disfigurement and madness/insanity.
+Rats, spiders, insects, demons, undead, ghosts, and other monsters.
+Natural disasters, large-scale loss of life, civil war, displaced persons, refugees.
+Moral ambiguity, social/ political manipulation, religious zealotry, military nationalism.
+:
+Explicit sexuality, sexual assault, racial prejudice, systemic racism, homophobia, or transphobia are not topics we want to explore in this world. Any inferences of such are wholly unintentional.
+
+
+}}
+
+
+{{tab}}{{banner}}
+{{bannerText
+{{pageNumber,auto}}
+
+Age of Drakkenheim Campaign Frame
+
+}}
+
+
+
+\page
+
+{{frameTitle
+### Age of Drakkenheim Campaign Frame
+}}
+
+## Communities
+
+{{chapterIntro
+
+All communities are available, but some take on unique qualities within a Drakkenheim campaign. As needed, provide the following details to your players and choose one or more questions to ask them during your session zero.
+
+}}
+
+#### Highborne and Slyborne
+The ruins of Drakkenheim once held noble estates and merchant halls, and fragments of that wealth still linger. Highborne carve out footholds in fortified districts, clinging to old titles or hoarding salvaged treasures from the shattered palaces of Westemär’s line. Their power is fragile, bought with promises of protection or threats of reprisal.
+:
+Slyborne thrive in the shadow of such privilege, whether as thieves, smugglers, or survivors who exploit the instability of noble houses. In the city’s chaos, slyborne find endless chances to carve their mark, trading in relics, rumors, or darker goods.
+
+:
+Questions for Highborne:
+- Who among Drakkenheim’s scattered nobles still commands your loyalty, and why?
+- What treasure or privilege marks you as different from the masses?
+- Who in your circle whispers of rebuilding the throne, and who whispers of usurping it?
+
+:
+
+Questions for Slyborne:
+- Who do you feed lies to in your community, and why haven’t they caught you yet?
+- What relic of the city did you steal, and who hunts you for it?
+- Which job or betrayal still stains your reputation in the underworld?
+
+:
+
+#### Loreborne and Orderborne
+Once, Drakkenheim was a beacon of learning and faith, home to grand libraries, temples, and academies. Now, many stand half-sunken into haze or crumble under delerium’s touch. Loreborne cling to fragments of this lost knowledge, salvaging tomes from ruined shelves or preserving forbidden arcana whispered by the Amethyst Academy.
+:
+Orderborne anchor themselves to creeds or codes that survived the comet. Whether followers of the Sacred Flame, breakaway prophets, or those sworn to the Silver Order, they struggle to live by ideals bent against a shattered world.
+
+:
+
+Questions for Loreborne:
+- What secret of the Old World do you or your mentors guard, and what price has it already cost?
+- Which relic or scroll do you refuse to let the Academy or factions take from you?
+- What lesson of history shapes your every choice?
+___
+
+\column
+
+Questions for Orderborne:
+- Which tenet of your faith has changed since the comet’s fall? Which remains untouched?
+- What oath do you secretly doubt, and what keeps you from renouncing it?
+- Who looks to you for guidance, and how do you hide your uncertainty?
+
+#### Underborne
+In ancient sewers, dwarven tunnels, and collapsed catacombs beneath Drakkenheim, scattered communities of underborne survive. Some are scavengers who pick through forgotten crypts, others descendants of dwarves or humans who fled below during the cometfall. They know too well that delerium’s corruption seeps through stone as easily as air.
+
+Questions for Underborne:
+- What sound in the dark fills you with dread, and what do you believe it means?
+- What buried ruin shelters your people, and what forbidden secret sleeps there?
+- Which forbidden place beneath the city did you trespass, and what scar do you still carry from it?
+:
+#### Wildborne
+The forests and wilds outside Drakkenheim are thick with haze-mutated beasts and strange growths. Yet within them lie untouched glades, sacred groves, and hidden communities of druids, halflings, and goblins who survive by holding fast to the old ways. Wildborne are at once attuned to the beauty of the wilds and haunted by their corruption.
+
+Questions for Wildborne:
+- Which forest landmark haunts your dreams, and what omen do you see in it?
+- Which spirit or guardian do your people call upon, and what signs of its corruption frighten you?
+- What did you witness in the woods that proved the wilds are sickened?
+
+#### Ridgeborne
+In the highlands and mountains around Drakkenheim, small fortified villages cling to sheer cliffs and rocky passes. Ridgeborne are hardy folk, tending mines, watching mountain shrines, and patrolling ancient dwarven tunnels where delerium sometimes seeps into the stone. They honor oaths of kin and stone, though many such promises are fraying.
+
+Questions for Ridgeborne:
+- Which mountain tomb or ruin does your community guard, and what do you fear still sleeps within?
+- Who vanished in the passes last winter, and what tale do the winds whisper of them?
+
+{{tab}}{{banner}}
+{{bannerText
+{{pageNumber,auto}}
+
+Age of Drakkenheim Campaign Frame
+
+}}
+
+
+\page
+
+{{frameTitle
+### Age of Drakkenheim Campaign Frame
+}}
+
+#### Seaborne
+On the coasts of Elyria and Caspia, fishing towns and trade ports receive delerium in smuggled shipping crates carried by shifting tides. Seaborne live in balance with storm and sea, their villages both vulnerable to attack and enriched by trade. Their lives are tied to the waves, yet every sailor knows the waters can hide ancient things best left forgotten.
+
+Questions for Seaborne:
+- What tale of the River Drann do you believe, though others dismiss it as myth?
+- When you swam deep and found delerium, what vision or creature marked you forever?
+- What promise did you make on the deck of a ship, and who still waits for you to keep it?
+
+\column
+
+#### Wanderborne
+From displaced refugees to mercenary bands, wanderborne are those who carry their homes on their backs. Many are survivors of Drakkenheim’s fall, clinging to each other in caravans and pilgrim hosts. Others walk by choice, refusing to kneel to faction or faith, forever seeking safety, answers, or redemption on the road.
+
+Questions for Wanderborne:
+- Why does your caravan keep moving, and what do you fear follows it?
+- What place do you yearn to return to, though you know it is gone?
+- What vision or nightmare guides your wandering feet?
+
+{{columnReset}}
+
+## Ancestries
+
+{{chapterIntro
+
+All ancestries are available, but some have unique aspects within within your campaign (I mean who am I to assume that?). As needed, provide the following information to your players.
+
+}}
+
+#### Humans
+By far the most common ancestry across the continent. Humans fill every nation, faction, and faith. Their diversity is their strength - nobles, beggars, soldiers, prophets, and heretics all bear the same blood. They remain the heart of Drakkenheim’s struggle, for good or ill. 
+:
+#### Drakona and Infernis
+Born from ancient bargains with dragons and fiends, these folk bear visible marks of magic in their blood. Scales, horns, glowing eyes, or strange resilience set them apart. Some embrace their arcane heritage, others fight it, but all carry echoes of humanity’s long-ago debts.
+
+\column
+
+#### Elves and Dwarves
+The elves are remnants of a vanished world, their ruins scattered in remote places. Shaped by stone, dwarves live in human cities or in remote strongholds of their own. Every elf is mageborn, and many dwarves the comet’s fall as proof their old oaths have been broken.
+:
+#### Halflings, Gnomes & Goblins
+Small folk thrive in both rural villages and hidden enclaves. Halflings are farmers, innkeepers, and unexpected heroes. Gnomes and goblins cling to faerie roots, crafting wonders from whimsy and invention. All are underestimated, but none should be dismissed.
+
+{{columnReset}}
+
+{{divider}}
+
+## Player Principles
+
+{{chapterIntro,inline
+
+If your group decides to play this campaign, give your players the following information before character creation.
+
+}}
+
+#### Embrace the Ruin
+Your characters live in a world scarred by eldritch horror and disaster. Let it shape your backstory and choices.
+#### Seek Meaning
+Decide what drives you into Drakkenheim - hope, faith, greed, duty, or obsession.
+#### Accept Corruption
+Contamination and mutation are part of the journey. Explore how they change not only your body, but your outlook.
+#### Choose Sides, or Not
+No faction is purely good or evil. Align with them, oppose them, or try to carve your own path.
+
+\column
+
+## GM Principles
+
+{{chapterIntro,inline
+
+Keep the following guidance in mind while you GM this campaign.
+
+}}
+
+#### Show the Haze
+Make Drakkenheim feel alive, with shifting weather, strange anomalies, and eerie beauty.
+#### Grey Morality
+Each faction has truth and lies, vision and blindness. Let players uncover them through play.
+#### Consequences Matter
+Every choice reshapes the city’s fate. Lean into irreversible changes.
+#### Horror with Wonder
+Mix grotesque and sublime, the abberant and the divine. Drakkenheim should unsettle, but also inspire awe.
+
+
+{{tab}}{{banner}}
+{{bannerText
+{{pageNumber,auto}}
+
+Age of Drakkenheim Campaign Frame
+
+}}
+
+\page
+{{frameTitle
+### Age of Drakkenheim Campaign Frame
+}}
+## Classes
+
+All classes are available to players, though many possess unique characteristics tied to the fractured, dangerous world of Drakkenheim. Spellcasting in particular is rare, powerful, and often misunderstood, demanding careful consideration for those who wield it.
+
+:
+
+### Sorcerers, Wizards, Warlocks, Witches, and Bards
+Magic suffuses Drakkenheim, yet only a few mortals can bend it to their will. Those born with the arcane spark - the mageborn - often manifest their powers during late childhood or adolescence, sometimes later in life. Sorcerers and wizards draw upon otherworldly energies, their abilities shaped by inheritance and training, while warlocks and witches gain their powers through pacts with dark or eldritch entities. Bards channel the supernatural Words of Creation, bending reality through inspiration. Most spellcasters remain secretive, aware that common folk often fear or mistrust those who can alter the world with unseen forces. The rare individual capable of high-level magic wields immense personal, political, and social influence, and may become a recluse or legendary figure. Even modest mastery is remarkable, and the presence of an accomplished mage can shift local politics, commerce, or religious sentiment.
+
+:
+
+### Seraphs and Druids
+Divine spellcasting in Drakkenheim is not granted by gods directly but arises from disciplined devotion to cosmic forces of light, shadow, and balance. Seraphs of the Sacred Flame channel the divine energy of the Flame, manifesting both miraculous healing and destructive power against the forces of darkness, while druids are recluse, solitary figures holding to the old ways, in worship of the heretical Old Gods. A seraph’s display of power can inspire hope or draw dangerous attention, and they must constantly balance duty with the temptations of pride or hubris, while druids of the Old Gods are often looked upon with suspicion for their heretic faith, but their duties of dogma and anathema are as diverse as the Old Gods themselves.
+
+:
+
+### Rangers and Other Minor Spellcasters
+Some adventurers - rangers, scouts, or specialized subclasses - use minor arcane or divine techniques. While these abilities are limited in scope compared to the mageborn, they allow practitioners to augment combat, explore dangerous locales, or provide utility to a party. These characters are not generally considered true spellcasters, but their skills can still influence survival and strategy, especially in the treacherous wilds and ruined streets of Drakkenheim.
+
+:
+
+### Shadow Cults
+Rogues, assassins, witches, and warlocks often draw from the dark and enigmatic powers of the Shadow Cults. These sects revere the Exalted Darkness or otherworldly patrons, embracing forbidden knowledge, necromancy, and eldritch rites. Practitioners might channel shadows, trickery, or death itself, wielding their powers for vengeance, ambition, or secretive devotion. Like the Sacred Flame, the shadowed arts demand discipline; failure or betrayal can bring ruin or even death, but the rewards - arcane might and forbidden insight - are profound.
+
+{{divider}}
+
+## Campaign Mechanics
+
+{{chapterIntro
+The following mechanics are unique to this campaign.
+
+}}
+
+{{wide
+
+#### Delerium
+The enigmatic meteoric rock known as delerium is a source of great conflict. Mages covet it for its magical potential, mercenaries and thieves see it as valuable trade, while knightly orders and zealous cults view it as either accursed or sacred.
+:
+When you find a delerium deposit, you can make a Finesse action roll to try to retrieve it safely:
+
+**Success with Hope**: You claim the deposit and clear a stress.
+
+**Success with Fear**: You claim the deposit.
+
+**Failure with Hope**: You fail to claim the deposit and you must make a Contamination Reaction Roll.
+
+**Failure with Fear**: You fail to claim the deposit and you must make a Contamination Reaction Roll with disadvantage.
+
+}}
+
+
+
+{{note
+
+##### Contamination
+Exposure to delerium or the haze leaves scars, physical or mental. When you come into contact with it, the GM may call for a **Contamination Reaction Roll**. Roll your duality dice against difficulty 12. Add +1 for each Hope you have, subtract –1 for each Stress you carry. On failure, you gain a level of contamination, marking a Hope slot as a permanent scar and forcing you to draw a card from the Mutation Deck.
+
+If all your Hope slots are marked, you undergo a **Monstrous Transformation**, becoming a delerium-twisted horror, an adversary under control of the GM.
+:
+**Contamination Scars:** {{tracker ☐☐☐☐☐☐ }}
+
+}}
+
+
+{{note
+
+##### The Delerium Trade
+A delerium deposit has monetary value based on the size of the delerium pieces in it.
+
+**Delerium Chips/Fragments** = 1–2 handfuls of gold
+
+**Delerium Shards/Crystals** = 1–2 bags of gold
+
+**Delerium Geode** = 1 chest of gold
+
+**Delerium Massive Cluster** = priceless hoard
+
+}}
+
+\page
+## Downtime in Drakkenheim
+:
+In the haze covered city of Drakkenheim, you can take a **short rest**, but you are unable to take a **long rest** as the contamination seeps into your flesh and bones over time, becoming gradually more and more of a threat to your health... and steadily driving you mad. Some say there are pockets of the city where the haze can't reach, and one might be able to take a long rest. Such places are guaranteed to be under the control of a faction or a powerful monster, but finding and taking such a place for your party would prove a powerful location to set up headquarters.
+:
+### Lurking Horrors
+**Lurking Horrors** represents the ever-present dangers of the ruined city. When the party finishes a short or long rest while within the city of Drakkenheim, the GM rolls a d12 for Lurking Horrors and consults the following list:
+
+**1–2**: Describe how something monstrous found them in the dark. An adversary of the GM’s choice initiates conflict.
+
+**3–5**: Describe how something terrifying stalks nearby. You gain 2 Fear.
+
+**6–9**: Describe how the imposing darkness intensifies. You gain a Fear.
+
+**10–11**: Describe how the characters rest undisturbed. No effect.
+
+**12**: Describe how the characters stumble upon a hopeful omen. Each PC gains a Hope.
+
+With danger ever abounding, those who brave the shadowed wilds can keep watch in hopes of preventing the terrors of the haze from finding them. Parties have access to an additional downtime move:
+
+> **Keep Watch**: Describe how you stay vigilant against what lurks beyond your camp. When the GM makes a Lurking Horrors roll at the end of downtime, you roll your Hope Die and choose whether to replace their roll with yours. If multiple players choose this move, you can take the highest die roll.
+
+:
+
+## Drakkenheim Outer City
+:
+### Tier 2 Exploration
+The ruined streets outside the city walls of Drakkenheim, where mutated monsters lurk and arcane anomalies alter reality itself.
+
+**Impulses**: Misdirect and disorient, destroy and contaminate, show signs of the apocalyptic meteor
+
+**Difficulty**: 14
+
+**Potential Adversaries**: Any Rival Adventurers, Any Faction Agents, Any Delerium-Touched
+:
+##### Features:
+***Delerium-Touched Creatures - Passive***: Adversaries who appear here are fully contaminated; They have immunity to contamination and mutation, they can see through the haze without issue, and they can spend a Fear to heal 2 Hit Points while within a scene with a delerium claim.
+:
+*Questions: What of their appearance speaks to their original form before they mutated? How did the mutation affect them, and why?*
+:
+***Buried Bounty - Passive***: The city has glowing delerium to uncover and countless mysteries to unfold. A PC who seeks a delerium claim or knowledge about the fallen city can make an Instinct or Knowledge Roll to learn about this place and discover (potentially contaminated) loot.
+:
+**Critical Success**: Gain valuable information and a related useful item and a delerium claim.
+:
+**Success with Hope**: Gain valuable information and a delerium claim.
+:
+**Success with Fear**: Uncover vague or incomplete information.
+:
+**Any Failure**: Mark a Stress to find a lead after an exhaustive search.
+:
+*Questions: What greater secrets does the city contain? What predatory delerium-touched creatures lie in wait? What doomed adventurers have met a bad fate here already?*
+:
+***Arcane Anomaly - Action***: Spend a Fear to manifest the eldritch echo of the disaster that ravaged the city. Activate a Progress Countdown (5) as the arcane anomaly appears around the PCs . To complete the countdown and escape the anomaly, the PCs must overcome threats while recalling history and finding clues to escape the inevitable.
+
+- The effects can mean the appearance of a creature, marking Stress or Hit Points, losing Hope or gaining Fear. Describe the anomaly, ask a player to describe it, or use one of the following:
+- A fundamental law of reality such as air, gravity, time, or space fails or behaves strangely.
+- Nearby objects animate and whisper terrible truths, or a PC becomes possessed and speaks something dark in the voice of someone long dead.
+- A PC blinks through fragments of its own timeline, their form changing visibly to others as it happens. What do they see?
+- Shadowy hands, black tentacles, or a hypnotic pattern of impossible colours erupts, dealing damage or Stress.
+- Ghostly visions show creatures dying from any major damage they take. When they take major damage, they must also mark a Stress.
+- Corpses rise, an extraplanar adversary appears, shadows attack their owners, or nearby objects animate. Spend a fear to make their first attack an automatic success.
+- A PC is polymorphed, turns invisible, becomes hasted, or is otherwise altered, yet they remain the same mechanically. How?
+- Flowers and a confused aquatic mammal appear very far overhead. “Oh no, not again…” Thinks the flowers.
+
+\page
+{{frameTitle
+### Age of Drakkenheim Campaign Frame
+}}
+
+### Mutations
+When you gain a level of Contamination, draw a card from the Mutations Deck. During your adventure you may find mysteries, secrets and forbidden knowledge that gives you ways to cleanse contamination and cure mutations, but there is otherwise no spell, ability or feature in the core rule book that can remove them.
+
+{{note
+
+##### Pick Your Poison
+The Mutation Deck features 50 unique mutations. When you gain a mutation, roll 1d50 to see which one you get, or the GM can choose one for you.
+
+}}
+
+{{divider}}
+
+![card1](https://i.imgur.com/8B3q1z5.png) {bottom:0px,width:30%,left:30px,bottom:470px}
+![card2](https://i.imgur.com/w5mti1M.png) {bottom:0px,width:30%,left:280px,bottom:470px}
+![card3](https://i.imgur.com/kmz3q41.png) {bottom:0px,width:30%,left:530px,bottom:470px}
+
+![card1](https://i.imgur.com/QhsmOR4.png) {bottom:0px,width:30%,left:30px,bottom:125px}
+![card2](https://i.imgur.com/9P7x8ej.png) {bottom:0px,width:30%,left:280px,bottom:125px}
+![card3](https://i.imgur.com/11oVwiT.png) {bottom:0px,width:30%,left:530px,bottom:125px}
+
+{{artist,dark
+##### Mutated Warrior
+[ArdisFoxx](https://ardisfoxxart.carrd.co/)
+}}
+
+\page
+![card1](https://i.imgur.com/GAzEUgb.png) {bottom:0px,width:30%,left:30px,bottom:705px}
+![card2](https://i.imgur.com/EdcZnvD.png) {bottom:0px,width:30%,left:280px,bottom:705px}
+![card3](https://i.imgur.com/aPjuRp0.png) {bottom:0px,width:30%,left:530px,bottom:705px}
+
+![card1](https://i.imgur.com/0eHLUHg.png) {bottom:0px,width:30%,left:30px,bottom:360px}
+![card2](https://i.imgur.com/CHzAwT1.png) {bottom:0px,width:30%,left:280px,bottom:360px}
+![card3](https://i.imgur.com/ZEV0tMs.png) {bottom:0px,width:30%,left:530px,bottom:360px}
+
+![card1](https://i.imgur.com/7A6Pi48.png) {bottom:0px,width:30%,left:30px,bottom:15px}
+![card2](https://i.imgur.com/3NhV4jM.png) {bottom:0px,width:30%,left:280px,bottom:15px}
+![card3](https://i.imgur.com/jaUu6mr.png) {bottom:0px,width:30%,left:530px,bottom:15px}
+
+{{artist,dark
+##### Mutated Warrior
+[ArdisFoxx](https://ardisfoxxart.carrd.co/)
+}}
+
+\page
+
+![card1](https://i.imgur.com/wWfqxyl.png) {bottom:0px,width:30%,left:30px,bottom:705px}
+![card2](https://i.imgur.com/Iq785j5.png) {bottom:0px,width:30%,left:280px,bottom:705px}
+![card3](https://i.imgur.com/kt3TuXv.png) {bottom:0px,width:30%,left:530px,bottom:705px}
+
+![card1](https://i.imgur.com/MB3wRLI.png) {bottom:0px,width:30%,left:30px,bottom:360px}
+![card2](https://i.imgur.com/sx5uFNb.png) {bottom:0px,width:30%,left:280px,bottom:360px}
+![card3](https://i.imgur.com/9AJpfxD.png) {bottom:0px,width:30%,left:530px,bottom:360px}
+
+![card1](https://i.imgur.com/DQ4K3k5.png) {bottom:0px,width:30%,left:30px,bottom:15px}
+![card2](https://i.imgur.com/69CZxgG.png) {bottom:0px,width:30%,left:280px,bottom:15px}
+![card3](https://i.imgur.com/QCs4RwA.png) {bottom:0px,width:30%,left:530px,bottom:15px}
+
+{{artist,dark
+##### Mutated Warrior
+[ArdisFoxx](https://ardisfoxxart.carrd.co/)
+}}
+
+\page
+
+![card1](https://i.imgur.com/VnRTUJT.png) {bottom:0px,width:30%,left:30px,bottom:705px}
+![card2](https://i.imgur.com/v2UHFmx.png) {bottom:0px,width:30%,left:280px,bottom:705px}
+![card3](https://i.imgur.com/xoAueUT.png) {bottom:0px,width:30%,left:530px,bottom:705px}
+
+![card1](https://i.imgur.com/npFJ1GT.png) {bottom:0px,width:30%,left:30px,bottom:360px}
+![card2](https://i.imgur.com/mT1JmPc.png) {bottom:0px,width:30%,left:280px,bottom:360px}
+![card3](https://i.imgur.com/wHcfcG9.png) {bottom:0px,width:30%,left:530px,bottom:360px}
+
+![card1](https://i.imgur.com/qmYipSK.png) {bottom:0px,width:30%,left:30px,bottom:15px}
+![card2](https://i.imgur.com/B89jWfj.png) {bottom:0px,width:30%,left:280px,bottom:15px}
+![card3](https://i.imgur.com/JPJwnMr.png) {bottom:0px,width:30%,left:530px,bottom:15px}
+
+{{artist,dark
+##### Mutated Warrior
+[ArdisFoxx](https://ardisfoxxart.carrd.co/)
+}}
+
+\page
+
+![card1](https://i.imgur.com/Q9udgjB.png) {bottom:0px,width:30%,left:30px,bottom:705px}
+![card2](https://i.imgur.com/EyGHSGD.png) {bottom:0px,width:30%,left:280px,bottom:705px}
+![card3](https://i.imgur.com/p7A6iN9.png) {bottom:0px,width:30%,left:530px,bottom:705px}
+
+![card1](https://i.imgur.com/7QfIoFZ.png) {bottom:0px,width:30%,left:30px,bottom:360px}
+![card2](https://i.imgur.com/toL8P55.png) {bottom:0px,width:30%,left:280px,bottom:360px}
+![card3](https://i.imgur.com/QUzyxiE.png) {bottom:0px,width:30%,left:530px,bottom:360px}
+
+![card1](https://i.imgur.com/s0N4UKL.png) {bottom:0px,width:30%,left:30px,bottom:15px}
+![card2](https://i.imgur.com/lS5vvCN.png) {bottom:0px,width:30%,left:280px,bottom:15px}
+![card3](https://i.imgur.com/zcCspDh.png) {bottom:0px,width:30%,left:530px,bottom:15px}
+
+{{artist,dark
+##### Mutated Warrior
+[ArdisFoxx](https://ardisfoxxart.carrd.co/)
+}}
+
+\page
+
+![card1](https://i.imgur.com/t48E9kz.png) {bottom:0px,width:30%,left:30px,bottom:705px}
+![card2](https://i.imgur.com/Acv4m8o.png) {bottom:0px,width:30%,left:280px,bottom:705px}
+![card3](https://i.imgur.com/p1ZaaHm.png) {bottom:0px,width:30%,left:530px,bottom:705px}
+
+![card1](https://i.imgur.com/79GL7Nl.png) {bottom:0px,width:30%,left:30px,bottom:360px}
+![card2](https://i.imgur.com/sHMtopM.png) {bottom:0px,width:30%,left:280px,bottom:360px}
+![card3](https://i.imgur.com/ZaP6XoQ.png) {bottom:0px,width:30%,left:530px,bottom:360px}
+
+![card1](https://i.imgur.com/X3MdmLZ.png) {bottom:0px,width:30%,left:30px,bottom:15px}
+![card2](https://i.imgur.com/Bhyydd7.png) {bottom:0px,width:30%,left:280px,bottom:15px}
+
+{{artist,dark
+##### Mutated Warrior
+[ArdisFoxx](https://ardisfoxxart.carrd.co/)
+}}
+
+\page
+
+{{frameTitle
+### Age of Drakkenheim Campaign Frame
+}}
+
+#### Factions
+The five factions of Drakkenheim are not allies, but without the help of the player characters to aid them or settle their differences, they are unable to progress with their motivations alone. Thus the tenuous balance of the factions' chess match is unbalanced with the introduction of the player characters to the story.
+
+##### Amethyst Academy
+
+**Relationships:** Friendly (+1) with Hooded Lanterns, Friendly (+1) with Knights of the Silver Order, Unfriendly (-1) with Queen’s Men, Unfriendly (-1) with Followers of the Falling Fire
+:
+**Motivations:** Recover lost arcane knowledge, secure the Inscrutable Tower, and harness delerium for magical advancement.
+:
+**Key NPCs:**
+
+**Archwizard Eldrick Runeweaver** - calculating leader; protects the Academy’s secrets and directs research.
+
+**River** - pragmatic lieutenant; manages field operations and supervises survey teams.
+:
+##### Followers of the Falling Fire
+
+**Relationships:** Friendly (+2) with Hooded Lanterns, Unfriendly (-1) with Amethyst Academy, Unfriendly (-1) with Queen’s Men, Enemies (-2) with Knights of the Silver Order
+:
+**Motivations:** Treat delerium as divine gifts, draw pilgrims to fulfill Lucretia’s prophecies, oppose orthodox Flamekeepers.
+:
+**Key NPCs:**
+
+**Lucretia Mathias** - mystical prophet; interprets the Falling Fire as a sacred plan.
+
+**Nathaniel Flint** - enthusiastic lieutenant; spreads the sect’s teachings and recruits followers.
+:
+##### Hooded Lanterns
+**Relationships:** Friendly (+1) with Knights of the Silver Order, Friendly (+1) with Amethyst Academy, Friendly (+1) with Followers of the Falling Fire, Enemies (-2) with Queen’s Men
+:
+**Motivations:** Reclaim Drakkenheim for the Realm of Westemär and restore order to the capital.
+:
+**Key NPCs:**
+
+**Lord Commander Elias Drexel** - grim, disciplined leader; sees the city as a test of loyalty and courage.
+
+**Captain Ansom Lang** - determined lieutenant; enforces Drexel’s directives and maintains troop morale.
+
+**Lieutenant Petra Lang** - hopeful and idealistic; eager to prove herself in rebuilding the city.
+:
+\column
+
+##### Knights of the Silver Order
+
+**Relationships:** Friendly (+1) with Hooded Lanterns, Friendly (+1) with Amethyst Academy, Enemies (-2) with Followers of the Falling Fire, Enemies (-2) with Queen’s Men
+:
+**Motivations:** Purge corruption and monsters, destroy delerium, and protect mortals from supernatural threats.
+:
+**Key NPCs:**
+
+**Knight-Captain Theodore Marshal** - valiant leader; embodies the order’s ideals of justice and duty.
+
+**High Flamekeeper Ophelia Reed** - devoted lieutenant; balances magical prowess with spiritual guidance.
+:
+##### Queen’s Men
+
+**Relationships:** Unfriendly (-1) with Followers of the Falling Fire, Unfriendly (-1) with Amethyst Academy, Enemies (-2) with Hooded Lanterns, Enemies (-2) with Knights of the Silver Order
+:
+**Motivations:** Exploit the chaos for wealth, influence, and control over Drakkenheim’s criminal networks.
+:
+**Key NPCs:**
+
+**Queen of Thieves** - enigmatic criminal mastermind; orchestrates thefts, smuggling, and intrigue.
+
+**Blackjack Mel** - sleazy lieutenant; executes the Queen’s schemes and maintains gang loyalty.
+:
+> **Tip:** Keep factions morally grey - no group is purely good or evil. Whenever the players start trusting one faction too much, reveal a hidden flaw, secret agenda, or morally questionable action. Likewise, show that an opposing faction has redeeming qualities or acts of unexpected honor. Keeping this up throughout the campaign keeps alliances dynamic, encourages players to investigate them a little further, and makes Drakkenheim feel alive, unpredictable and filled with hard compromises.
+
+:
+
+
+<!-- 
+{{frameTitle
+### Age of Drakkenheim Campaign Frame
+}}
+
+
+
+
+
+{{monsterblock,blue
+
+{{details
+## The Blue One
+
+###### Tier 1 Monster But Different
+___
+*This creature has the face of a circle and the body of a square. You decide what I mean by that, I don't even know myself*
+___
+**Motives & Tactics:** Confusion, intimidate, template
+}}
+
+
+{{info
+
+{{infoSegment
+**Size:** 140 ft. tall, 140 ft. wide
+___
+**Segments:** 4 Sides, 0 Edges, 1 Face, and 2 PHDs (impressive)
+___
+**Thresholds:** 42/69 | **Stress:** 10
+}}
+
+{{infoSegment
+**Experience**: Retail +3, Starbucks +2
+}}
+
+}}
+
+
+
+
+{{features
+##### Features
+***More Then It Lets On - Reaction:*** When you think they are not that cool, they actually prove you wrong. Hard.
+___
+***Sweating - Reaction:*** I don't understand why this is a bad thing, you know. I just need to cool off, you want me to overheat? Let my armpit stains go their own way man, this is a free world.
+}}
+
+}}
+
+
+{{monsterblock
+
+{{details
+## The Normal One
+
+###### Tier 1 Kinda Guy
+
+___
+*A regular ol' stat block for your regular ol' monster boys, girls and everything in between. Don't forget to make them feel special too sometimes, they deserve it just as much. Give them a kiss for me. Go on.*
+___
+**Motives & Tactics:** Just doing their best, making it to tomorrow, getting by, get approval from you
+}}
+
+{{info
+{{infoSegment
+**Difficulty:** 6 | **Thresholds:** 2/4 | **HP:** 1 | **Stress:** Too much
+___
+**ATK:** +0 (They ain't hurting no one) | **Fists:** Melee | 1d4+4 phy
+}}
+
+{{infoSegment
+**Experience**: Friendly Neighbour +3
+}}
+}}
+
+{{features
+##### Features
+***Lemonade - Passive:*** When you need it most, they got some nice cold lemonade for you.
+___
+***Take It Easy - Action:*** Say some supportive things to both sides in the argument. Validate their feelings. You can work it out.
+
+}}
+
+}}
+
+
+
+\column
+
+
+
+{{monsterblock
+
+{{details
+## Smol Boi
+**Adjacent Segments:** Side
+}}
+
+{{info
+{{infoSegment
+**Difficulty:** 20 | **HP:** 2 
+___
+**ATK:** +10 | **Scratch:** Melee | 1d12+2 phy
+}}
+}}
+
+{{features
+##### Features
+***Not The Little One - Passive:*** When the Smol Boi is Destroyed, everyone disapproves.
+___
+***Cute (Melee) - Passive:*** The Smol Boi is immune to damage from things that are cuter than it is.
+___
+***Heey-Ho - Reaction:*** When you pick the Smol Boi up, you can throw them in the air and catch them back in your arms, but only if you yell heeeyy-HOOOOOO as you do it.
+}}
+
+}}
+ -->
+:
+
+### Credits 
+:
+
+{{creatorCredits
+Drakkenheim Campaign Frame 
+
+Created and Illustrated by [ArdisFoxx](https://ardisfoxxart.carrd.co/)
+:
+Dungeons of Drakkenheim Created by [The Dungeon Dudes](https://www.youtube.com/dungeondudes)
+:
+Campaign Frame Template by Sax [(Homebrewery](https://homebrewery.naturalcrit.com/user/Sax?sort=alpha&dir=asc)/[Reddit)](https://www.reddit.com/user/Sax-7777299/submitted/?sort=top) & PerfectlyCircularSeal [(Homebrewery](https://homebrewery.naturalcrit.com/user/Layoro?sort=alpha&dir=asc)/[Reddit)](https://www.reddit.com/user/The_Sad_Optimist/?sort=top)
+
+}}
+
+:
+
+{{dpcrCredits
+<!-- Don't remove this, if you do Matt will be super disappointed in you -->
+
+![card](https://i.imgur.com/GoUqRAQ.png) {position:relative,height:1em,vertical-align:top,margin-right:0.24em} This product includes material from the Daggerheart System Reference Document 1.0, © Critical Role, LLC, under the terms of the Darrington Press Community Gaming License. 
+___ 
+More at [https://www.daggerheart.com](https://www.daggerheart.com)
+
+}}
+
+{{imageMaskEdge7,--offset:36%,--rotation:-8
+  ![](https://i.imgur.com/cZ3YI1W.jpeg){height:20%,bottom:-10px,left:0px}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+
+{{tab}}{{banner}}
+{{bannerText
+{{pageNumber,auto}}
+
+Age of Drakkenheim Campaign Frame
+
+}}
+
+
+

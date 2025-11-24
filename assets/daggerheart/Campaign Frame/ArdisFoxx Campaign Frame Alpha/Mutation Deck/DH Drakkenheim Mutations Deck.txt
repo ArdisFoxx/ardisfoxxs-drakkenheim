@@ -1,0 +1,104 @@
+## Mutation
+
+When contamination scars you, draw a card from the Mutations Deck. These cards reflect how delerium reshapes you. Their effects are narrative but may inspire new approaches to abilities or domains.
+
+Wave of Mutation: Your body twists violently, sprouting new changes while those nearby are warped along with you. You gain another mutation, and all creatures within 60 feet also gain 1 Contamination level and a mutation.
+
+Rampant Mutation!: Draw two new Mutation cards and return this one to the deck.
+
+Corrosive Mucus: Make a Strength Roll to spit acid at a target within Far range, dealing d8 physical damage using your Proficiency.
+
+Multiplied Senses: Your face sprouts additional eyeballs, ears, and noses. You gain Advantage on Instinct rolls to perceive things.
+
+Regenerative Flesh: You can mark 1 Stress to clear 1 Hit Point.
+
+Magic Resistance: You gain Advantage on reaction rolls against Spells and magical effects.
+
+Change Shape: During a long rest, you can spend a downtime move to swap your current ancestry with another. When you do, describe how your appearance changes. When you Change Shape,  you only gain the benefit of one of the ancestry’s features, which you select when you choose the ancestry. You can spend a downtime move to switch which of your ancestry’s features you gain the benefit of.
+
+Reversed Limbs: You can leap anywhere within Close range as though you were using normal movement, allowing you to vault obstacles, jump across gaps, or scale barriers with ease,
+
+Arcane Blood: Power surges in your veins, your life force tinged with magic. You gain Advantage on Spelicast rolls. At 4 or more Contamination levels, you gain Advantage on all action rolls.
+
+Amorphous Form: Your bones and organs become gelatinous. You can move through a space as narrow as 6 inches wide without difficulty.
+
+Chitinous Plates: Shell-like growths appear all over you body, giving you a +1 bonus to Evasion. If you have 4 or more Contamination levels, this bonus increases to +2.
+
+Other Worldly Resistance: The Contamination growing in your body makes you strangely resistant to similar forces. You gain Resistance to magic damage.
+
+Transmuted Flesh: Your flesh and body transform into seemingly inorganic maternal but you remain animate and alive. This doesn't affect your game statistics. Roll 1d6 to determine which material: 1: iron; 2: wood: 3: glass; 4: stone; 5: water; 6: plastic.
+
+Vestigial Limbs: Your body suddenly sprouts additional appendages. The limbs are not usable. Roll 106 to determine what grows: 1: fingers; 2: toes; 3: leg; 4: Arm; 5: tail; 6: head.
+
+Screaming Brain: You grow a sentient brain in your body, and it doesn't like you very much. lt berates you and constantly questions your judgment, constantly wishing to escape the confines of your body.
+
+Burning Blood: FLAME ON! Mark a Stress to wreathe your primary weapon in flame until the end of the scene. While ablaze, it gives off a bright light and grants a 1d6 bonus to damage rolls against targets within Melee range.
+
+Sprouting Crystals: Small bits of delerium begin to erupt from your bones and through your skin. They itch painfully.
+
+Gossamer Hair: Your hair becomes fine and ethereal, floating gently as if underwater.
+
+Wasting: Bits of your body slough away, nails or teeth littering the ground. Roll 1d6 to determine which: 1-2: fingernails; 3-4: teeth: and 5-6: toenails.
+
+Vocal Warp: Your voice twists into an unnatural tone that unsettles those who hear it. Roll 1d6. 1: Alien Resonance: 2: Wet Gurgling: 3: Demonic Baritone: 4: Constantly Singing; 5: Distant Echoing: 6: Rasping Whisper.
+
+Shrinking: Your frame collapses inward, leaving you frail and small until your Contamination fades. While shrunk you have disadvantage on Strength roils. You return to your normal size when you no longer have Contamination levels.
+
+Hulking: Your body swells grotesquely, growing into something massive until your Contamination fades. While enlarged you gain advantage on Strength roils. You return to your normal size when you no fonger have Contamination levels.
+
+Electric Discharge: Crackling glands spark and hiss, releasing arcs of ightning, You take half damage from magical or mundane lightning. You give off a bright light and your attacks gain a 1d4 bonus to damage rolls against targets within Melee range. The damage die increases by one for each Contantination level you have (1d4 for 1, 1d6 for 2, 1d8 for 3, 1d10 for 4, 1d12 for 5, 1d20 for 6 as you undergo Monstrous Transformation).
+
+Nascent Delusions: Your thoughts fracture, warped by alien madness. You gain a randomly determined form of Drakkenheim Madness, which persists so long as you are Contaminated.
+
+Cryogenic Shift: A creeping frost spreads across your body, shedding heat into the ar. You take half damage from magical or mundane cold, but if you don't move during your Spotlight, you become Restrained until you take fire damage.
+
+Hallucinogenic Visions: The world shimmers into a beautiful, dreamlike haze, hiding its true horrors. All creatures appear beautiful, friendly, smiling and whimsical to you.
+
+Explosive Demise: Your body simmers with volatile growths, threatening to erupt when you die. When you make a Death Move, you must use Blaze of Glory. In addition to the action you do for your Blaze of Glory, you deal 1d12 damage for each Contamination level you have, against all creatures within Very Close Range.
+
+Eyeless Sight: Your eyes become milky orbs and go blind. You gain Blndsight, a magical sense allowing you to see within Close Range. You detect magical creatures, items and effects within this range. If you have 4 or more Contamination levels, your eyes rot out, and dim octarine light burns in the sockets. Your Blindsight increases to Far Range.
+
+Belly Maw: A toothy maw opens in your stomach. When you succeed on an attack against a target within Melee range, you can gore the target with your maw, dealing an extra 1d6 damage.
+
+Whispering Voices: You can speak to creatures telepathically within Close range, but other creatures hear it as their own voice. If you have 4 or more Contamination levels, the range extends to Far.
+
+Spider Climb: You can climb on walls and ceilings as naturally as you walk on land.
+
+Tentacled Limb: One of your arms becomes a fleshy tentacle. Treat any weapon, ability, spell, or other feature that has a Melee range as though it has a Very Close range instead.
+
+Spatial Displacement: Once per long rest for each Contamination level you have, you can teleport to a place within Far range without making an action roll. If you have 4 or more Contamination levels, the range becomes Very Far.
+
+
+Cyclopean Vision: Your eyes merge into a single central eye, which you can use to make an Insight attack against a target within Far range. On a success, you send a beam of octarine light toward them, dealing d8+2 magic damage using your Proficiency.
+
+Aquatic Adaptation: You sprout fish-like fins and gills. You can breathe and move naturally underwater. If you have 4 or more Contamination levels, you can only breathe underwater, and you can hold your breath outside water for up to 1 hour.
+
+Spiked Growths: Thorny shards of bone erupt from your body. Creatures attacking you in Melee range Trust mark a Stress.
+
+Flickering Presence: Your form flickers intermittently like a poorly tuned hologram.
+
+Shadowless: You no longer cast a shadow, regardless of the ight sources around you.
+
+Shimmering Veins: Your blood veins glow through your skin, casting a faint octarine light.
+
+Alien Organs: You feel a bloated shift within your abdomen, as if something has been altered in your internal composition, Several of your organs have changed into something unrecognizable yet still functional. They're filled with alien black goo.
+
+Ocular Tumors: An eyeball opens somewhere on your body for each Contamination level you have gained. If you have 4 or more Contamination levels, you can see in all directions and gain Advantage on checks to spot Hidden creatures.
+
+Shedding: Each time you gain a Contamination level, some of your hair falls out in patches. Once you reach 4 or more Contamination levels, all hair on your body completely falls out.
+
+Lambent Glow: You emit a dim octarine glow within Close range. If you have 4 or more Contamination levels, you instead emit Bright Light within Far range.
+
+Transforming Skin: Your skin begins to change. Roll 1d6 to determine the effect: 1: painful blisters which seep strange liquids; 2: cracking and peeling to reveal raw sinew: 3: strange patterns and runes; 4: welts and bruises which throb violently 5: necrosis and rotting in patches; 6: lesions in otherworldly multi-colored hues.
+
+Rotting Extremities: One of your body parts begins to blacken and wither. Roll 1d6. to determine which: 1-2: your lips; 3-4: your nose: 5-6: your ears. If you reach 4 or more Contamination levels, they rot and fall off. You can still speak and hear somehow.
+
+Terrible Stench: The air around you reeks of rot, sulfur, and decay. Creatures are Poisoned while they are within Melee range of you. Creatures have Advantage on rolls made to locate or track you.
+
+Wretched Bile: Your gut churns with bubbling ichor, begging to be vomited forth. You may spew it once per rest as a Presence attack roll, dealing 1d8 magic damage per Contamination level you possess to all creatures within Close range.
+
+Fledgling Wings: Tom flesh gives rise to bat-like wings that struggle to carry you. You can mark 2 Stress to gain the ability to fy until the end of the current scene.
+
+Sanguine Appetite: The scent and taste of blood fills you with hunger and exhilaration. When you only have 2 or fewer Hit Points unmarked, your attacks gain Advantage against creatures that have 2 or more marked Hit Points.
+
+Anomaly Locus: Reality bends strangely around you, warping whenever fate turns against you. When you fail a roll with hope, you choose to succeed with fear instead. When you do, you trigger an Arcane Anomaly centered on yourself.
