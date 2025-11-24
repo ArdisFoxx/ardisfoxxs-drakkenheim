@@ -2,7 +2,7 @@ Fan made module to support running of Dungeons of Drakkenheim in Pathfinder 2e a
 
 ---------------
 
-The Landing Page module previously required Lock View version 1.5.5 and Isometric Perspective module, but the latest versions of Landing Page use Foundry v13 and these other modules are not compatible so the scenes have been configured to not use them.*
+* The Landing Page module previously required Lock View version 1.5.5 and Isometric Perspective module, but the latest versions of Landing Page use Foundry v13 and these other modules are not compatible so the scenes have been configured to not use them. *
 
 ---------------
 
