@@ -35,7 +35,7 @@ If the actor images and the scenes all appear broken, then you haven't emailed m
 
 # Customize It For Your Campaign
 
-That the PSD file for the Landing Page scene is included in the "ardisfoxxs-drakkenheim/assets/UI" folder. Open this .psd file in Clipstudio Paint, Photoshop or whatever PSD editor you have access to (there are many free apps that can edit PSD files. I recommend https://www.photopea.com/ as its a free opensource online app that doesn't require installation). Using the Drakkenheim_Landing_Page.psd, replace the PC images with pics of your campaign's PCs. Export the file in JPEG format and save over Drakkenheim-Landing-Page-v2.jpg and Drakkenheim-Landing-Page-v2.1.jpg files in the "Drakkenheim UI Assets\Landing Page" folder.
+That the PSD file for the Landing Page scene is included in the "ardisfoxxs-drakkenheim/assets/UI/Landing Page" folder. Open this .psd file in Clipstudio Paint, Photoshop or whatever PSD editor you have access to (there are many free apps that can edit PSD files. I recommend https://www.photopea.com/ as its a free opensource online app that doesn't require installation). Using the Drakkenheim_Landing_Page.psd, replace the PC images with pics of your campaign's PCs. Export the file in JPEG format and save over Drakkenheim-Landing-Page-v2.jpg and Drakkenheim-Landing-Page-v2.1.jpg files in the "ardisfoxxs-drakkenheim/assets/UI/Landing Page" folder.
 
 Monk's Active Tile Triggers makes tiles clickable buttons. Edit the active tile links by double-clicking a tile > Triggers > Actions. Change the Card journals to link to a different player journal instead of the ones I included from my own campaign.
 
