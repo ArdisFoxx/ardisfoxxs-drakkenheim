@@ -20,9 +20,56 @@ https://theripper93.com/module/macro-wheel
 
 ![Emberwood](https://github.com/ArdisFoxx/ardisfoxxs-drakkenheim/blob/main/assets/UI/Landing%20Page/Emberwood%20Isometric%20by%20side_way.jpg?raw=true)
 
+-----------------
+# Delerium Rules in PF2e
+
+## Search for Delerium (Outer City)
+You use the Search exploration activity to look for delerium deposits against a normal leveled DC. Each additional person using Search can Aid your check.
+Success: You find 3d6 delerium chips and 1d6 delerium fragments which you may attempt to harvest.
+Critical Success: You find double the chips and fragments, and 1 delerium shard.
+
+## Search for Delerium (Inner City)
+You use the Search exploration activity to look for delerium deposits against a normal leveled DC. Each additional person using Search can Aid your check.
+Success: You find 3d6 delerium chips, 2d6 delerium fragments and 1d6 delerium shards which you may attempt to harvest.
+Critical Success: You find double the chips, fragments and shards, and 1 delerium crystal. 
+
 ![Delerium in PF2e](https://github.com/ArdisFoxx/ardisfoxxs-drakkenheim/blob/main/assets/UI/Harvesting%20Delerium.jpg?raw=true)
 
 -----------------
+
+# Drakkenheim House Rules
+I've used the following house rules in all six Drakkenheim PF2e campaigns that I have run, and they have been very well received by players and GM's alike.
+
+## Addition: Random Encounter Checks
+
+**Sense Direction:** When traveling within Drakkenheim city, one party member must succeed on a Sense Direction check at the normal leveled DC. Failure adds one complication to the Random Encounter Check. If no one attempts it, it counts as a fail.
+
+**Random Encounter Check:** Each player rolls a die. The base die is a d10 for Outer City travel and a d6 for Inner City travel. The GM secretly rolls two of the same dice.
+
+**Complication:** The first GM die sets the target number for complications—these could be encounters, skill challenges, or travel difficulties. If any player’s roll matches this number, a complication occurs. Multiple hits escalate the severity.
+
+**Good Fortune:** The second GM die sets the target number for good fortune—an ally, treasure, delerium, or opportunity. This can happen alongside complications.
+
+**Frequency:** The party rolls once per travel segment through the city—typically when entering, traveling inside, and leaving.
+
+**Stealth and Speed Modifiers:**  
+- Using stealth aids or magic (e.g., Vanishing Tracks, Invisibility) **increases** the encounter die size by one step (e.g., Outer City d10 → d12, Inner City d6 → d8).  
+- Traveling at full speed **decreases** the die size by one step (e.g., Outer City d10 → d8, Inner City d6 → d4).
+These modifiers adjust the likelihood of encounters accordingly.
+
+NB: The reason the "fail" and "win" target numbers for the roll are randomized by the GM is that it increases tension among the players; they don't know whether those three 4's they just rolled meant nothing special or a super bad result. If no encounter triggers, the GM should still describe their journey in detail and describe situations that sound like something terrible is about to befall them, but they sneak around it or duck into an empty manor house while the haze hulk or elite garmyr patrol stalks by.
+
+## Change: Resting
+The rules below replace or amend the default rules for resting. Note that long rests cannot be completed within the contaminating eldritch haze that permeates the city of Drakkenheim and extends out to 2 miles around it.
+
+**Rest.** Completing a long rest takes 24 hours. A long rest can only be completed in an area of safety such as a secure encampment, an inn or a tavern; a place where you can eat well, rest and recover.
+
+**Bath Houses**. The most luxurious inns in the world are often appointed with a bath house. Spending 1 hour of bliss in a bath house reduces the required length of your next rest down to 8 hours. Some bath houses even have magic waters, enchanted by the Amethyst Academy to invigorate the muscles and sooth the spirit.
+
+NB: These rules support the Diablo style gameplay Drakkenheim is suited for, and it encourages the PCs to stay in Emberwood for longer periods in between their trips to the city. Even the most fervent min-maxer will be encouraged to relax at the Red Lion Inn or the attached Bath House for *longer* than RAW minimum 8 hours of complete bed rest, so your PCs will have a chance to get to know your NPCs and each other.
+
+-----------------
+# The Landing Page
 
 The whole landing page is interactive.
 
