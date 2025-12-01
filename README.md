@@ -1,6 +1,6 @@
 As a GM I've run Dungeons of Drakkenheim in 5e, PF2e and Daggerheart, including paid games for Startplaying.games. I wanted to share my PF2e conversions with other GMs. This module is the culmination of my continued efforts in making Drakkenheim in PF2e and Daggerheart the easy and fun as possible.
 
-The module includes Actors and Items for playing Drakkenheim campaigns in PF2e and Daggerheart (in development), as well as Scenes, Journals, Macros, Rolltables, Playlists and Sound Effects to enhance your Drakkenheim campaign into a premium experience. It's a work in progress, but I hope that the bones of what I've been able to put into this module help you get your campaign going.
+The module includes Actors and Items for playing Drakkenheim campaigns in PF2e and Daggerheart (in development), as well as Scenes, Journals, Macros, Rolltables, Playlists and Sound Effects to enhance your Drakkenheim campaign into a premium experience. I order to publish this as a module I had to move the scene and actor images into new folders, which broke everything, so I've pretty much had to create the entire adventure from scratch. So the module is a work in progress, but I hope that the bones of what I've been able to put into this module help you get your campaign started.
 
 ---------------
 
