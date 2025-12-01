@@ -18,7 +18,7 @@ https://theripper93.com/module/macro-wheel
 
 ![The Landing Page](https://github.com/ArdisFoxx/ardisfoxxs-drakkenheim/blob/main/assets/UI/Drakkenheim%20Landing%20Page%20Blank.jpg?raw=true)
 
-![The Clocktower](https://github.com/ArdisFoxx/ardisfoxxs-drakkenheim/blob/main/assets/scenes/Isometric/Clocktower_Iso.png?raw=true)
+![Delerium in PF2e](https://github.com/ArdisFoxx/ardisfoxxs-drakkenheim/blob/main/assets/UI/Harvesting%20Delerium.jpg?raw=true)
 
 ![Emberwood](https://github.com/ArdisFoxx/ardisfoxxs-drakkenheim/blob/main/assets/UI/Landing%20Page/Emberwood%20Isometric%20by%20side_way.jpg?raw=true)
 
