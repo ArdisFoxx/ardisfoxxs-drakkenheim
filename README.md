@@ -22,7 +22,9 @@ https://theripper93.com/module/macro-wheel
 
 -----------------
 # Delerium Rules in PF2e
+
 _Note that the module includes macros to make these checks easy to do in game._
+
 ## Search for Delerium (Outer City)
 You use the Search exploration activity to look for delerium deposits against a normal leveled DC. Each additional person using Search can Aid your check.
 Success: You find 3d6 delerium chips and 1d6 delerium fragments which you may attempt to harvest.
@@ -41,7 +43,9 @@ Critical Success: You find double the chips, fragments and shards, and 1 deleriu
 I've used the following house rules in all six Drakkenheim PF2e campaigns that I have run, and they have been very well received by players and GM's alike.
 
 ## Addition: Random Encounter Checks
+
 _Note that the module includes a macro to make these checks easy to do in game._
+
 **Sense Direction:** When traveling within Drakkenheim city, one party member must succeed on a Sense Direction check at the normal leveled DC. Failure adds one complication to the Random Encounter Check. If no one attempts it, it counts as a fail.
 
 **Random Encounter Check:** Each player rolls a die. The base die is a d10 for Outer City travel and a d6 for Inner City travel. The GM secretly rolls two of the same dice.
