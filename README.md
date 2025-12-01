@@ -25,6 +25,7 @@ https://theripper93.com/module/macro-wheel
 # Installation Instructions
 
 Go to your compendiums and search for "AFD". Import the Landing Page scene folder, as well as all Journals, Macros and Roll Tables. The remaining Actors, Items, and Scenes, you can just leave in the compendiums and import them individually as needed (the less you import, the smoother your Foundry will run).
+
 -----------------
 
 # Customize It For Your Campaign
