@@ -1,6 +1,6 @@
-Fan made module to support running of Dungeons of Drakkenheim in Pathfinder 2e and Daggerheart.
+I've run one Dungeons of Drakkenheim 5e campaign with friends, which I then converted to PF2e and ran for 5 different paid campaigns on Startplaying.games. I'm now running the adventure in Daggerheart as well. This module is the culmination of my efforts in making Drakkenheim campaigns in PF2e and Daggerheart the best that they can be.
 
-Includes Actors and Items for playing Drakkenheim campaigns in PF2e and Daggerheart (in development), as well as Scenes, Journals, Macros, Rolltables, Music and Sound Effects to enhance your Drakkenheim campaign into a premium experience.
+The module includes Actors and Items for playing Drakkenheim campaigns in PF2e and Daggerheart (in development), as well as Scenes, Journals, Macros, Rolltables, Playlists and Sound Effects to enhance your Drakkenheim campaign into a premium experience.
 
 ---------------
 
@@ -9,6 +9,7 @@ Includes Actors and Items for playing Drakkenheim campaigns in PF2e and Daggerhe
 This module relies on certain premium Drakkenheim content from Ghostfire Gaming and 3rd party content from Epic Isometric to fully function. Email me at ardisfoxxart@gmail.com with your purchase receipt of the Drakkenheim PDF and the Epic Isometric Patreon and I can supply you with a MEGA folder containing the additional assets required for this Foundry module. 
 
 For full functionality I also recommend picking up the Simple Quest and Macro Wheel modules from TheRipper93's Patreon - just subscribe for a month then download the modules you want and cancel your sub if you don't want to continue supporting. I promise that those modules are worth it.
+
 
 https://ghostfiregaming.com/product/dd-dk-pdf-and-maps/
 
