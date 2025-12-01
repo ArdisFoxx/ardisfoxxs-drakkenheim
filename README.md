@@ -4,6 +4,8 @@ Includes Actors and Items for playing Drakkenheim campaigns in PF2e and Daggerhe
 
 ---------------
 
+# Important Note Before Installing
+
 Note that this module relies on certain premium Drakkenheim content from Ghostfire Gaming and 3rd party content from Epic Isometric to fully function. Email me at ardisfoxxart@gmail.com with your purchase receipt of the Drakkenheim PDF and the Epic Isometric Patreon and I can supply you with a MEGA folder containing the additional assets required for this Foundry module. 
 
 For full functionality I also recommend picking up the Simple Quest and Macro Wheel modules from TheRipper93's Patreon - just subscribe for a month then download the modules you want and cancel your sub if you don't want to continue supporting. I promise that those modules are worth it.
@@ -24,7 +26,9 @@ https://theripper93.com/module/macro-wheel
 
 # Installation Instructions
 
-Go to your compendiums and search for "AFD". Import the Landing Page scene folder, as well as all Journals, Macros and Roll Tables. The remaining Actors, Items, and Scenes, you can just leave in the compendiums and import them individually as needed (the less you import, the smoother your Foundry will run).
+Go to your compendiums and search for "AFD". Import the Landing Page scene folder, as well as all Journals, Macros and Roll Tables. The remaining Actors, Items, and Scenes, you can just leave in the compendiums and import them individually as needed (the less you import, the smoother your Foundry will run). If you want to utilize the included Playlists, import them too.
+
+If the actor images and the scenes all appear broken, then you haven't emailed me your proof of purchase of the Drakkenheim book as outlined above. Do that.
 
 -----------------
 
