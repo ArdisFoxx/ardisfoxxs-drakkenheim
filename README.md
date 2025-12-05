@@ -57,6 +57,8 @@ Journals PSA: **DO NOT** give your players Ownership permission to the Quest or 
 
 For a full tutorial on setting up ArdisFoxx's Drakkenheim, see below.
 
+[![Configuring ArdisFoxx's Drakkenheim](https://raw.githubusercontent.com/ArdisFoxx/ardisfoxxs-drakkenheim/3ef09792c0864bd26320f91631a89b33c01ec9f0/assets/UI/Landing%20Page/AFD_YT_TUTORIAL.png)](https://www.youtube.com/watch?v=e_ep9VeGOE4)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e_ep9VeGOE4?si=shbBvQOmblpO9W-V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 -----------------
