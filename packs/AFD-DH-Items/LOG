@@ -1,8 +1,15 @@
-2025/12/01-03:12:00.302804 f980fa63cfc0 Recovering log #15
-2025/12/01-03:12:00.310044 f980fa63cfc0 Delete type=3 #13
-2025/12/01-03:12:00.310070 f980fa63cfc0 Delete type=0 #15
-2025/12/01-03:17:18.679966 f97e5a7fefc0 Level-0 table #20: started
-2025/12/01-03:17:18.679981 f97e5a7fefc0 Level-0 table #20: 0 bytes OK
-2025/12/01-03:17:18.682871 f97e5a7fefc0 Delete type=0 #18
-2025/12/01-03:17:18.688309 f97e5a7fefc0 Manual compaction at level-0 from '!folders!3i6mNJXjmuyjBUtx' @ 72057594037927935 : 1 .. '!items!pQSGPVqvZ89jtuy6' @ 0 : 0; will stop at (end)
-2025/12/01-03:17:18.690827 f97e5a7fefc0 Manual compaction at level-1 from '!folders!3i6mNJXjmuyjBUtx' @ 72057594037927935 : 1 .. '!items!pQSGPVqvZ89jtuy6' @ 0 : 0; will stop at (end)
+2025/12/05-06:23:09.050347 fbda7e7cefc0 Recovering log #19
+2025/12/05-06:23:09.057247 fbda7e7cefc0 Delete type=3 #17
+2025/12/05-06:23:09.057272 fbda7e7cefc0 Delete type=0 #19
+2025/12/05-07:31:16.979291 fbd7fd9fefc0 Level-0 table #24: started
+2025/12/05-07:31:16.982608 fbd7fd9fefc0 Level-0 table #24: 1610 bytes OK
+2025/12/05-07:31:16.985398 fbd7fd9fefc0 Delete type=0 #22
+2025/12/05-07:31:16.990958 fbd7fd9fefc0 Manual compaction at level-0 from '!folders!3i6mNJXjmuyjBUtx' @ 72057594037927935 : 1 .. '!items!pQSGPVqvZ89jtuy6' @ 0 : 0; will stop at (end)
+2025/12/05-07:31:16.993470 fbd7fd9fefc0 Manual compaction at level-1 from '!folders!3i6mNJXjmuyjBUtx' @ 72057594037927935 : 1 .. '!items!pQSGPVqvZ89jtuy6' @ 0 : 0; will stop at '!items!K4AqARGJXrZ8E2T1' @ 5 : 1
+2025/12/05-07:31:16.993474 fbd7fd9fefc0 Compacting 1@1 + 1@2 files
+2025/12/05-07:31:16.996181 fbd7fd9fefc0 Generated table #25@1: 4 keys, 2598 bytes
+2025/12/05-07:31:16.996191 fbd7fd9fefc0 Compacted 1@1 + 1@2 files => 2598 bytes
+2025/12/05-07:31:16.998940 fbd7fd9fefc0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/05-07:31:16.998991 fbd7fd9fefc0 Delete type=2 #24
+2025/12/05-07:31:16.999030 fbd7fd9fefc0 Delete type=2 #12
+2025/12/05-07:31:16.999281 fbd7fd9fefc0 Manual compaction at level-1 from '!items!K4AqARGJXrZ8E2T1' @ 5 : 1 .. '!items!pQSGPVqvZ89jtuy6' @ 0 : 0; will stop at (end)
