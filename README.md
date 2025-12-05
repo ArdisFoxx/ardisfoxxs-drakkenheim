@@ -31,6 +31,7 @@ Go to your compendiums and search for "AFD". Import the Landing Page scene folde
 
 If the actor images and the scenes all appear broken, then you haven't emailed me your proof of purchase of the Drakkenheim book as outlined above. Do that.
 
+_Video tutorial for setting up the module:_
 [![Configuring ArdisFoxx's Drakkenheim](https://raw.githubusercontent.com/ArdisFoxx/ardisfoxxs-drakkenheim/40e2816f084d44c3bcc8ffac2fd50c7bf9e36206/assets/UI/Landing%20Page/AFD_YT_TUTORIAL.png)](https://www.youtube.com/watch?v=e_ep9VeGOE4)
 
 -----------------
