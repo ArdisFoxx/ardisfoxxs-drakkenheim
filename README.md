@@ -35,18 +35,29 @@ If the actor images and the scenes all appear broken, then you haven't emailed m
 
 # Customize It For Your Campaign
 
-That the PSD file for the Landing Page scene is included in the "ardisfoxxs-drakkenheim/assets/UI/Landing Page" folder. Open this .psd file in Clipstudio Paint, Photoshop or whatever PSD editor you have access to (there are many free apps that can edit PSD files. I recommend https://www.photopea.com/ as its a free opensource online app that doesn't require installation). Using the Drakkenheim_Landing_Page.psd, replace the PC images with pics of your campaign's PCs. Export the file in JPEG format and save over Drakkenheim-Landing-Page-v2.jpg and Drakkenheim-Landing-Page-v2.1.jpg files in the "ardisfoxxs-drakkenheim/assets/UI/Landing Page" folder.
+## The Landing Page Background
 
-Monk's Active Tile Triggers makes tiles clickable buttons. Edit the active tile links by double-clicking a tile > Triggers > Actions. Change the Card journals to link to a different player journal instead of the ones I included from my own campaign.
+The Landing Page scene is a jpeg, but in the folder "ardisfoxxs-drakkenheim/assets/UI/Landing Page" I've included the .psd file for it, so you can edit the playing cards with images of your own adventuring party. Just open the PSD file in Clipstudio Paint, Photoshop or whatever PSD editor you have access to (I recommend https://www.photopea.com/ its a free open source online PSD editor that doesn't require installation). Once you've made your edits, export the file in JPEG format and save it in the "ardisfoxxs-drakkenheim/assets/UI/Landing Page" folder, then edit the Landing Page scene and set your new scene background image.
 
-Drag any macros that you want to use into your hotbar. These reference the included roll tables.
+## Making the Landing Page Items Clickable
 
-Check out the Drakkenheim Journals I included. I've added every quest in the Drakkenheim book, and these are linked to the Factions journals too. Using Monk's Enhanced Journals, players can see any quests that you've flagged as active.
-Some example quests are active so you will want to deactivate those so your players can't see them. Go to the Journal Notes button on the left sidebar and click the Toggle Objectives button to show Quests. You can then double-click any of those quests on the popup window and uncheck "Show to Players" to remove player permissions over it and "Display in Notifications" to remove it from the Quests popup window.
+The Landing Page scene has a bunch of invisible tiles on it which trigger certain functions using Monk's Active Tile Triggers:
 
-The Faction Reputation Sliders on the landing page are all tiles, showing PC's relationship with the factions, from Nemesis > Enemy > Neutral > Ally > Champion. Included in the Drakkenheim UI Assets folder are slider tile images for Enemy/Neutral/Ally in red/grey/blue colours respectively. 
+* Clicking the gold bag opens the party loot vault
+* Clicking the candle opens the Sacred Flame lore page
+* Clicking the player cards open the player's personal journals
+* Clicking the astrolabe opens lore about delerium and the haze. These feature homebrew changes to contamination that make contamination usable in both PF2e and 5e
+* Clicking the maps opens them in an image view
+* The faction reputation sliders are all tiles that can be moved around, showing the PCs reputation with factions from nemesis > enemy > neutral > ally > champion
+* Diablo II sound effects on all the tile triggers
 
-Note that the "ardisfoxxs-drakkenheim/assets/UI" folder also includes "Old" assets used in my previous module "Drakkenheim Landing Menu". I've left these in there in case they might be useful for you - some of them are used for this new module.
+Unfortunately when you import this module's content, the journals, scenes and macros may get new document IDs, which will cause the Landing Page tile triggers to break. Meaning you'll click them and nothing will happen. To fix that, select the Tile layer on the Foundry sidebar, then double click the invisible image tile you want to edit. Go to the Triggers tab and examine what the Action is that the token trigger is trying to do. Usually it will be running a Macro or opening a Journal which has a different ID than the one in your world - pointing it to the correct one in your world will fix it.
+
+Journals PSA: **DO NOT** give your players Ownership permission to the Quest or Lore journals, as this will give them access to view the ones you've marked as purple/hidden - they'll see all your spoilers!
+
+For a full tutorial on setting up ArdisFoxx's Drakkenheim, see below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e_ep9VeGOE4?si=shbBvQOmblpO9W-V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 -----------------
 
@@ -102,17 +113,6 @@ The rules below replace or amend the default rules for resting. Note that long r
 NB: These rules support the Diablo style gameplay Drakkenheim is suited for, and it encourages the PCs to stay in Emberwood for longer periods in between their trips to the city. Even the most fervent min-maxer will be encouraged to relax at the Red Lion Inn or the attached Bath House for *longer* than RAW minimum 8 hours of complete bed rest, so your PCs will have a chance to get to know your NPCs and each other.
 
 -----------------
-# The Landing Page
-
-The whole landing page is interactive.
-
-* Clicking the gold bag opens the party loot vault
-* Clicking the candle opens the Sacred Flame lore page
-* Clicking the player cards open the player's personal journals
-* Clicking the astrolabe opens lore about delerium and the haze. These feature homebrew changes to contamination that make contamination usable in both PF2e and 5e
-* Clicking the maps opens them in an image view
-* The faction reputation sliders are all tiles that can be moved around, showing the PCs reputation with factions from nemesis > enemy > neutral > ally > champion
-* Diablo II sound effects on all the tile triggers
-
------------------
 _Note that the Landing Page module previously required Lock View version 1.5.5 and Isometric Perspective module, but the latest versions of Landing Page use Foundry v13 and these other modules are not compatible, so the updated scenes have been configured not to use them._
+
+_Also note that the "ardisfoxxs-drakkenheim/assets/UI" folder also includes "Old" assets used in my previous module "Drakkenheim Landing Menu". I've left these in there in case they might be useful for you - some of them are used for this new module._
