@@ -1,15 +1,8 @@
-2025/12/04-21:07:33.157 9130 Recovering log #50
-2025/12/04-21:07:33.162 9130 Delete type=0 #50
-2025/12/04-21:07:33.162 9130 Delete type=3 #48
-2025/12/04-21:16:51.886 5e04 Level-0 table #55: started
-2025/12/04-21:16:51.889 5e04 Level-0 table #55: 111229 bytes OK
-2025/12/04-21:16:51.891 5e04 Delete type=0 #53
-2025/12/04-21:16:51.897 5e04 Manual compaction at level-0 from '!folders!QxVdmlGAvwvSSd8X' @ 72057594037927935 : 1 .. '!playlists.sounds!yhs4mc1vFrTVIZcn.vlwJsa8gd9gtPTzK' @ 0 : 0; will stop at (end)
-2025/12/04-21:16:51.897 5e04 Manual compaction at level-1 from '!folders!QxVdmlGAvwvSSd8X' @ 72057594037927935 : 1 .. '!playlists.sounds!yhs4mc1vFrTVIZcn.vlwJsa8gd9gtPTzK' @ 0 : 0; will stop at '!playlists.sounds!y2qj5gWfGjxNAKsZ.ykwvtyu7VawGevhV' @ 517 : 1
-2025/12/04-21:16:51.897 5e04 Compacting 1@1 + 1@2 files
-2025/12/04-21:16:51.901 5e04 Generated table #56@1: 1198 keys, 130726 bytes
-2025/12/04-21:16:51.901 5e04 Compacted 1@1 + 1@2 files => 130726 bytes
-2025/12/04-21:16:51.903 5e04 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/12/04-21:16:51.903 5e04 Delete type=2 #5
-2025/12/04-21:16:51.903 5e04 Delete type=2 #55
-2025/12/04-21:16:51.904 5e04 Manual compaction at level-1 from '!playlists.sounds!y2qj5gWfGjxNAKsZ.ykwvtyu7VawGevhV' @ 517 : 1 .. '!playlists.sounds!yhs4mc1vFrTVIZcn.vlwJsa8gd9gtPTzK' @ 0 : 0; will stop at (end)
+2025/12/05-15:45:37.799 9308 Recovering log #76
+2025/12/05-15:45:37.803 9308 Delete type=0 #76
+2025/12/05-15:45:37.803 9308 Delete type=3 #74
+2025/12/05-16:19:34.615 8664 Level-0 table #81: started
+2025/12/05-16:19:34.615 8664 Level-0 table #81: 0 bytes OK
+2025/12/05-16:19:34.617 8664 Delete type=0 #79
+2025/12/05-16:19:34.617 8664 Manual compaction at level-0 from '!folders!QxVdmlGAvwvSSd8X' @ 72057594037927935 : 1 .. '!playlists.sounds!y2qj5gWfGjxNAKsZ.ykwvtyu7VawGevhV' @ 0 : 0; will stop at (end)
+2025/12/05-16:19:34.626 8664 Manual compaction at level-1 from '!folders!QxVdmlGAvwvSSd8X' @ 72057594037927935 : 1 .. '!playlists.sounds!y2qj5gWfGjxNAKsZ.ykwvtyu7VawGevhV' @ 0 : 0; will stop at (end)
