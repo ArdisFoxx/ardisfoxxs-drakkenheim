@@ -31,6 +31,8 @@ Go to your compendiums and search for "AFD". Import the Landing Page scene folde
 
 If the actor images and the scenes all appear broken, then you haven't emailed me your proof of purchase of the Drakkenheim book as outlined above. Do that.
 
+[![Configuring ArdisFoxx's Drakkenheim](https://raw.githubusercontent.com/ArdisFoxx/ardisfoxxs-drakkenheim/40e2816f084d44c3bcc8ffac2fd50c7bf9e36206/assets/UI/Landing%20Page/AFD_YT_TUTORIAL.png)](https://www.youtube.com/watch?v=e_ep9VeGOE4)
+
 -----------------
 
 # Customize It For Your Campaign
@@ -54,12 +56,6 @@ The Landing Page scene has a bunch of invisible tiles on it which trigger certai
 Unfortunately when you import this module's content, the journals, scenes and macros may get new document IDs, which will cause the Landing Page tile triggers to break. Meaning you'll click them and nothing will happen. To fix that, select the Tile layer on the Foundry sidebar, then double click the invisible image tile you want to edit. Go to the Triggers tab and examine what the Action is that the token trigger is trying to do. Usually it will be running a Macro or opening a Journal which has a different ID than the one in your world - pointing it to the correct one in your world will fix it.
 
 Journals PSA: **DO NOT** give your players Ownership permission to the Quest or Lore journals, as this will give them access to view the ones you've marked as purple/hidden - they'll see all your spoilers!
-
-For a full tutorial on setting up ArdisFoxx's Drakkenheim, see below.
-
-[![Configuring ArdisFoxx's Drakkenheim](https://raw.githubusercontent.com/ArdisFoxx/ardisfoxxs-drakkenheim/3ef09792c0864bd26320f91631a89b33c01ec9f0/assets/UI/Landing%20Page/AFD_YT_TUTORIAL.png)](https://www.youtube.com/watch?v=e_ep9VeGOE4)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e_ep9VeGOE4?si=shbBvQOmblpO9W-V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 -----------------
 
