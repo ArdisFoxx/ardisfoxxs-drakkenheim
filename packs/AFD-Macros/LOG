@@ -1,8 +1,15 @@
-2025/12/05-07:34:51.665863 fbda7f7eefc0 Recovering log #89
-2025/12/05-07:34:51.673177 fbda7f7eefc0 Delete type=3 #87
-2025/12/05-07:34:51.673203 fbda7f7eefc0 Delete type=0 #89
-2025/12/10-08:44:01.146238 fbd7fd9fefc0 Level-0 table #94: started
-2025/12/10-08:44:01.146255 fbd7fd9fefc0 Level-0 table #94: 0 bytes OK
-2025/12/10-08:44:01.148946 fbd7fd9fefc0 Delete type=0 #92
-2025/12/10-08:44:01.152311 fbd7fd9fefc0 Manual compaction at level-0 from '!folders!GoLOHnAI8vic1LDn' @ 72057594037927935 : 1 .. '!macros!z8r0H7O3Rdl7OJ0Y' @ 0 : 0; will stop at (end)
-2025/12/10-08:44:01.159789 fbd7fd9fefc0 Manual compaction at level-1 from '!folders!GoLOHnAI8vic1LDn' @ 72057594037927935 : 1 .. '!macros!z8r0H7O3Rdl7OJ0Y' @ 0 : 0; will stop at (end)
+2026/01/05-01:28:17.768074 e69ff8a4efc0 Recovering log #161
+2026/01/05-01:28:17.775109 e69ff8a4efc0 Delete type=0 #161
+2026/01/05-01:28:17.775130 e69ff8a4efc0 Delete type=3 #159
+2026/01/12-01:38:39.692752 e69d52534fc0 Level-0 table #166: started
+2026/01/12-01:38:39.696441 e69d52534fc0 Level-0 table #166: 11230 bytes OK
+2026/01/12-01:38:39.699453 e69d52534fc0 Delete type=0 #164
+2026/01/12-01:38:39.699576 e69d52534fc0 Manual compaction at level-0 from '!folders!GoLOHnAI8vic1LDn' @ 72057594037927935 : 1 .. '!macros!z8r0H7O3Rdl7OJ0Y' @ 0 : 0; will stop at (end)
+2026/01/12-01:38:39.699709 e69d52534fc0 Manual compaction at level-1 from '!folders!GoLOHnAI8vic1LDn' @ 72057594037927935 : 1 .. '!macros!z8r0H7O3Rdl7OJ0Y' @ 0 : 0; will stop at '!macros!z8r0H7O3Rdl7OJ0Y' @ 77 : 1
+2026/01/12-01:38:39.699712 e69d52534fc0 Compacting 1@1 + 1@2 files
+2026/01/12-01:38:39.704431 e69d52534fc0 Generated table #167@1: 61 keys, 46759 bytes
+2026/01/12-01:38:39.704449 e69d52534fc0 Compacted 1@1 + 1@2 files => 46759 bytes
+2026/01/12-01:38:39.707926 e69d52534fc0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/12-01:38:39.708005 e69d52534fc0 Delete type=2 #166
+2026/01/12-01:38:39.708075 e69d52534fc0 Delete type=2 #22
+2026/01/12-01:38:39.727436 e69d52534fc0 Manual compaction at level-1 from '!macros!z8r0H7O3Rdl7OJ0Y' @ 77 : 1 .. '!macros!z8r0H7O3Rdl7OJ0Y' @ 0 : 0; will stop at (end)
