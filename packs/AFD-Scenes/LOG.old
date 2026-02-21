@@ -1,17 +1,8 @@
-2026/02/09-09:46:38.387821 e69fd37eefc0 Recovering log #209
-2026/02/09-09:46:38.395484 e69fd37eefc0 Delete type=0 #209
-2026/02/09-09:46:38.395507 e69fd37eefc0 Delete type=3 #207
-2026/02/16-06:02:28.950474 e69d52534fc0 Level-0 table #214: started
-2026/02/16-06:02:28.954477 e69d52534fc0 Level-0 table #214: 31848 bytes OK
-2026/02/16-06:02:28.956736 e69d52534fc0 Delete type=0 #212
-2026/02/16-06:02:28.962727 e69d52534fc0 Manual compaction at level-0 from '!folders!36NSGrGUNHrEkKup' @ 72057594037927935 : 1 .. '!scenes.walls!yDrRxwdEZ7lKFBjn.ytCnpYdJuyaOQQsa' @ 0 : 0; will stop at (end)
-2026/02/16-06:02:28.965367 e69d52534fc0 Manual compaction at level-1 from '!folders!36NSGrGUNHrEkKup' @ 72057594037927935 : 1 .. '!scenes.walls!yDrRxwdEZ7lKFBjn.ytCnpYdJuyaOQQsa' @ 0 : 0; will stop at '!scenes.walls!tBDEn2La87h3RIAU.zonT94JuEC5tkaJu' @ 27191 : 1
-2026/02/16-06:02:28.965373 e69d52534fc0 Compacting 1@1 + 2@2 files
-2026/02/16-06:02:29.002343 e69d52534fc0 Generated table #215@1: 11015 keys, 2146849 bytes
-2026/02/16-06:02:29.009241 e69d52534fc0 Generated table #216@1: 2828 keys, 201985 bytes
-2026/02/16-06:02:29.009262 e69d52534fc0 Compacted 1@1 + 2@2 files => 2348834 bytes
-2026/02/16-06:02:29.011993 e69d52534fc0 compacted to: files[ 0 0 2 0 0 0 0 ]
-2026/02/16-06:02:29.012197 e69d52534fc0 Delete type=2 #190
-2026/02/16-06:02:29.012763 e69d52534fc0 Delete type=2 #121
-2026/02/16-06:02:29.012824 e69d52534fc0 Delete type=2 #214
-2026/02/16-06:02:29.013197 e69d52534fc0 Manual compaction at level-1 from '!scenes.walls!tBDEn2La87h3RIAU.zonT94JuEC5tkaJu' @ 27191 : 1 .. '!scenes.walls!yDrRxwdEZ7lKFBjn.ytCnpYdJuyaOQQsa' @ 0 : 0; will stop at (end)
+2026/02/20-20:30:14.107613 e69ff8a4efc0 Recovering log #229
+2026/02/20-20:30:14.114738 e69ff8a4efc0 Delete type=0 #229
+2026/02/20-20:30:14.114763 e69ff8a4efc0 Delete type=3 #227
+2026/02/20-20:30:30.621074 e69d52534fc0 Level-0 table #236: started
+2026/02/20-20:30:30.621090 e69d52534fc0 Level-0 table #236: 0 bytes OK
+2026/02/20-20:30:30.623830 e69d52534fc0 Delete type=0 #234
+2026/02/20-20:30:30.626490 e69d52534fc0 Manual compaction at level-0 from '!folders!36NSGrGUNHrEkKup' @ 72057594037927935 : 1 .. '!scenes.walls!yDrRxwdEZ7lKFBjn.ytCnpYdJuyaOQQsa' @ 0 : 0; will stop at (end)
+2026/02/20-20:30:30.626649 e69d52534fc0 Manual compaction at level-1 from '!folders!36NSGrGUNHrEkKup' @ 72057594037927935 : 1 .. '!scenes.walls!yDrRxwdEZ7lKFBjn.ytCnpYdJuyaOQQsa' @ 0 : 0; will stop at (end)
